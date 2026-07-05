@@ -12,8 +12,7 @@ An end-to-end cognitive-generative framework that bridges EEG emotion recognitio
 
 ## 🎥 System Demo
 See the framework in action. Click to watch a demonstration of the NeuroMusicComposer translating emotions into live music generation:
-https://github.com/user-attachments/assets/4ef1d511-ecec-4183-bf89-6664906a84a3
-
+https://github.com/user-attachments/assets/2c53d714-9409-4f12-baef-5a07725b573c
 
 
 [![NeuroMusicComposer Demo](docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=IL_TUO_LINK_QUI)
