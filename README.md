@@ -37,7 +37,7 @@ The framework operates across three highly decoupled layers:
 
 The neural decoding framework processes downsampled or upsampled EEG segments to compute classification thresholds across discrete baseline affective targets (Relaxed, Angry, Sad, Happy).
 
-![Emotion Recognition Framework](docs/images/emotion_recognition_framework.jpg)
+![Emotion Recognition Framework](docs/images/emotion_recognition_framework.png)
 
 Using `braindecode` and MNE Python, the system maps physical EEG configurations (e.g., Muse 2) into high-resolution arrays. Advanced pipelines utilize the **Zuna Foundation Model** to reconstruct missing physical channels and compute **16 BIOT Bipolar derivations** (Anode/Cathode differentials) for enhanced affective state classification.
 
@@ -47,7 +47,7 @@ Using `braindecode` and MNE Python, the system maps physical EEG configurations 
 
 The cognitive layer acts as an algorithmic composer. It parses semantic features and physiological classifications into operational notation arrays processed by the music engine.
 
-![LLM Parameter Mapping Pipeline](docs/images/llm_generation.jpg)
+![LLM Parameter Mapping Pipeline](docs/images/llm_generation.png)
 
 Through strict prompting strategies (Chain-of-Thought, RE2, Few-Shot), the LLM generates a highly structured **JSON payload**. This payload contains explicit musical parameters—such as Pitches, Durations, Velocities, Measures, Articulations, and Clefs—mapped directly to individual instrumental voices (e.g., Flute, Cello, Violin, Viola).
 
@@ -57,7 +57,7 @@ Through strict prompting strategies (Chain-of-Thought, RE2, Few-Shot), the LLM g
 
 The project includes an extensive benchmark suite organized within `emotion2music/experiments_study/`. Each experiment logs multi-model behaviors across varied prompt paradigms, evaluating how different LLM architectures (Claude, Gemini, GPT-4o) interpret the "Context Bag" (personalization and emotional tags).
 
-![Experimental Workflow Overview](docs/images/overview_experiments.jpg)
+![Experimental Workflow Overview](docs/images/overview_experiments.png)
 
 | Study ID | Focus Area | Models Analyzed |
 | :--- | :--- | :--- |
