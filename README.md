@@ -8,14 +8,8 @@
 
 An end-to-end cognitive-generative framework that bridges EEG emotion recognition and algorithmic music production. By coupling state-of-the-art EEG foundation models (Braindecode, Zyphra's Zuna) with Large Language Models (LLMs) and interactive audio systems (Max/MSP), this system translates neurophysiological states into complex, real-time musical compositions.
 
----
-
-## 🎥 System Demo
-See the framework in action. Click to watch a demonstration of the NeuroMusicComposer translating emotions into live music generation:
 https://github.com/user-attachments/assets/2c53d714-9409-4f12-baef-5a07725b573c
 
-
-[![NeuroMusicComposer Demo](docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=IL_TUO_LINK_QUI)
 ## 🗺️ System Architecture
 
 Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop.
