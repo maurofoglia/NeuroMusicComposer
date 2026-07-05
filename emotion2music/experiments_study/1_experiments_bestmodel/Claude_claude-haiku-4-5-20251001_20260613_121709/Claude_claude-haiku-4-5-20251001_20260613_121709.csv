@@ -1,0 +1,5 @@
+Timestamp;Task;Backend;Modello;Temperatura;Emozione;Stile;BPM;Voci;Battute;Prompt_Type;Usa_RE2;Latenza_Totale (s);Latenza_Per_Battuta (s);Cicli_Refine
+2026-06-13 12:17:32;Completed;Claude;claude-haiku-4-5-20251001;0.1;Relaxed;auto;Auto;2;2;Few-Shot;False;8.572;4.286;0
+2026-06-13 12:17:40;Completed;Claude;claude-haiku-4-5-20251001;0.1;Excited;auto;72;2;2;Few-Shot;False;8.056;4.028;0
+2026-06-13 12:17:48;Completed;Claude;claude-haiku-4-5-20251001;0.1;Excited;auto;72;2;2;Few-Shot;False;8.301;4.15;0
+2026-06-13 12:17:57;Completed;Claude;claude-haiku-4-5-20251001;0.1;Sad;auto;72;2;2;Few-Shot;False;8.389;4.194;0

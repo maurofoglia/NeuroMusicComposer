@@ -1,0 +1,253 @@
+2026-06-17 20:08:31,655 [INFO] 📂 Setup cartella esperimento completato: experiments\Gemini_gemini-2.5-flash_20260617_200831
+2026-06-17 20:08:31,656 [INFO] [Gemini Backend] Inizializzazione... Modello selezionato: gemini-2.5-flash
+2026-06-17 20:08:32,820 [INFO] Client Gemini configurato.
+2026-06-17 20:08:32,820 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-17 20:08:32,820 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-17 20:08:40,242 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:40,243 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:40,244 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:08:40,245 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:41,895 [INFO] [Ricevuto da Max] Creatività impostata a: 0.80 -> Temp LLM Limitata: 0.180
+2026-06-17 20:08:41,973 [INFO] [Ricevuto da Max] Creatività impostata a: 0.78 -> Temp LLM Limitata: 0.178
+2026-06-17 20:08:42,022 [INFO] [Ricevuto da Max] Creatività impostata a: 0.78 -> Temp LLM Limitata: 0.178
+2026-06-17 20:08:42,038 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:42,054 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:42,102 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:42,134 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:42,151 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:42,182 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:42,199 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:42,230 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:42,310 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:42,394 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:42,422 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:42,454 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:42,522 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:42,538 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:42,551 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:42,902 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:42,952 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:42,968 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:43,113 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:43,449 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:43,625 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,077 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,121 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,184 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,490 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,506 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:44,683 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:45,402 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:45,418 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:45,435 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:45,451 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:45,627 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:46,044 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:46,050 [INFO] [Ricevuto da Max] Creatività impostata a: 0.68 -> Temp LLM Limitata: 0.168
+2026-06-17 20:08:46,061 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:46,065 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:46,076 [INFO] [Ricevuto da Max] Creatività impostata a: 0.66 -> Temp LLM Limitata: 0.166
+2026-06-17 20:08:46,081 [INFO] [Ricevuto da Max] Creatività impostata a: 0.65 -> Temp LLM Limitata: 0.165
+2026-06-17 20:08:46,093 [INFO] [Ricevuto da Max] Creatività impostata a: 0.63 -> Temp LLM Limitata: 0.163
+2026-06-17 20:08:46,097 [INFO] [Ricevuto da Max] Creatività impostata a: 0.62 -> Temp LLM Limitata: 0.162
+2026-06-17 20:08:46,109 [INFO] [Ricevuto da Max] Creatività impostata a: 0.61 -> Temp LLM Limitata: 0.161
+2026-06-17 20:08:46,114 [INFO] [Ricevuto da Max] Creatività impostata a: 0.59 -> Temp LLM Limitata: 0.159
+2026-06-17 20:08:46,125 [INFO] [Ricevuto da Max] Creatività impostata a: 0.58 -> Temp LLM Limitata: 0.158
+2026-06-17 20:08:46,129 [INFO] [Ricevuto da Max] Creatività impostata a: 0.56 -> Temp LLM Limitata: 0.156
+2026-06-17 20:08:46,144 [INFO] [Ricevuto da Max] Creatività impostata a: 0.55 -> Temp LLM Limitata: 0.155
+2026-06-17 20:08:46,157 [INFO] [Ricevuto da Max] Creatività impostata a: 0.54 -> Temp LLM Limitata: 0.154
+2026-06-17 20:08:46,176 [INFO] [Ricevuto da Max] Creatività impostata a: 0.54 -> Temp LLM Limitata: 0.154
+2026-06-17 20:08:46,189 [INFO] [Ricevuto da Max] Creatività impostata a: 0.53 -> Temp LLM Limitata: 0.153
+2026-06-17 20:08:46,192 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-17 20:08:46,205 [INFO] [Ricevuto da Max] Creatività impostata a: 0.49 -> Temp LLM Limitata: 0.149
+2026-06-17 20:08:46,208 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-17 20:08:46,221 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-17 20:08:46,224 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,237 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,240 [INFO] [Ricevuto da Max] Creatività impostata a: 0.42 -> Temp LLM Limitata: 0.142
+2026-06-17 20:08:46,257 [INFO] [Ricevuto da Max] Creatività impostata a: 0.39 -> Temp LLM Limitata: 0.139
+2026-06-17 20:08:46,268 [INFO] [Ricevuto da Max] Creatività impostata a: 0.39 -> Temp LLM Limitata: 0.139
+2026-06-17 20:08:46,369 [INFO] [Ricevuto da Max] Creatività impostata a: 0.39 -> Temp LLM Limitata: 0.139
+2026-06-17 20:08:46,385 [INFO] [Ricevuto da Max] Creatività impostata a: 0.41 -> Temp LLM Limitata: 0.141
+2026-06-17 20:08:46,397 [INFO] [Ricevuto da Max] Creatività impostata a: 0.41 -> Temp LLM Limitata: 0.141
+2026-06-17 20:08:46,401 [INFO] [Ricevuto da Max] Creatività impostata a: 0.41 -> Temp LLM Limitata: 0.141
+2026-06-17 20:08:46,413 [INFO] [Ricevuto da Max] Creatività impostata a: 0.41 -> Temp LLM Limitata: 0.141
+2026-06-17 20:08:46,429 [INFO] [Ricevuto da Max] Creatività impostata a: 0.42 -> Temp LLM Limitata: 0.142
+2026-06-17 20:08:46,434 [INFO] [Ricevuto da Max] Creatività impostata a: 0.42 -> Temp LLM Limitata: 0.142
+2026-06-17 20:08:46,444 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,465 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,476 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,492 [INFO] [Ricevuto da Max] Creatività impostata a: 0.43 -> Temp LLM Limitata: 0.143
+2026-06-17 20:08:46,497 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-17 20:08:46,524 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-17 20:08:46,540 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-17 20:08:46,556 [INFO] [Ricevuto da Max] Creatività impostata a: 0.47 -> Temp LLM Limitata: 0.147
+2026-06-17 20:08:46,561 [INFO] [Ricevuto da Max] Creatività impostata a: 0.49 -> Temp LLM Limitata: 0.149
+2026-06-17 20:08:46,572 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-17 20:08:46,589 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-17 20:08:46,593 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-17 20:08:46,605 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-17 20:08:46,637 [INFO] [Ricevuto da Max] Creatività impostata a: 0.51 -> Temp LLM Limitata: 0.151
+2026-06-17 20:08:46,652 [INFO] [Ricevuto da Max] Creatività impostata a: 0.53 -> Temp LLM Limitata: 0.153
+2026-06-17 20:08:46,668 [INFO] [Ricevuto da Max] Creatività impostata a: 0.54 -> Temp LLM Limitata: 0.154
+2026-06-17 20:08:46,684 [INFO] [Ricevuto da Max] Creatività impostata a: 0.54 -> Temp LLM Limitata: 0.154
+2026-06-17 20:08:46,717 [INFO] [Ricevuto da Max] Creatività impostata a: 0.54 -> Temp LLM Limitata: 0.154
+2026-06-17 20:08:46,753 [INFO] [Ricevuto da Max] Creatività impostata a: 0.55 -> Temp LLM Limitata: 0.155
+2026-06-17 20:08:46,766 [INFO] [Ricevuto da Max] Creatività impostata a: 0.56 -> Temp LLM Limitata: 0.156
+2026-06-17 20:08:46,769 [INFO] [Ricevuto da Max] Creatività impostata a: 0.57 -> Temp LLM Limitata: 0.157
+2026-06-17 20:08:46,782 [INFO] [Ricevuto da Max] Creatività impostata a: 0.58 -> Temp LLM Limitata: 0.158
+2026-06-17 20:08:46,784 [INFO] [Ricevuto da Max] Creatività impostata a: 0.58 -> Temp LLM Limitata: 0.158
+2026-06-17 20:08:46,797 [INFO] [Ricevuto da Max] Creatività impostata a: 0.59 -> Temp LLM Limitata: 0.159
+2026-06-17 20:08:46,813 [INFO] [Ricevuto da Max] Creatività impostata a: 0.60 -> Temp LLM Limitata: 0.160
+2026-06-17 20:08:46,829 [INFO] [Ricevuto da Max] Creatività impostata a: 0.61 -> Temp LLM Limitata: 0.161
+2026-06-17 20:08:46,877 [INFO] [Ricevuto da Max] Creatività impostata a: 0.62 -> Temp LLM Limitata: 0.162
+2026-06-17 20:08:46,893 [INFO] [Ricevuto da Max] Creatività impostata a: 0.63 -> Temp LLM Limitata: 0.163
+2026-06-17 20:08:46,925 [INFO] [Ricevuto da Max] Creatività impostata a: 0.64 -> Temp LLM Limitata: 0.164
+2026-06-17 20:08:46,940 [INFO] [Ricevuto da Max] Creatività impostata a: 0.64 -> Temp LLM Limitata: 0.164
+2026-06-17 20:08:46,957 [INFO] [Ricevuto da Max] Creatività impostata a: 0.65 -> Temp LLM Limitata: 0.165
+2026-06-17 20:08:47,277 [INFO] [Ricevuto da Max] Creatività impostata a: 0.66 -> Temp LLM Limitata: 0.166
+2026-06-17 20:08:47,292 [INFO] [Ricevuto da Max] Creatività impostata a: 0.66 -> Temp LLM Limitata: 0.166
+2026-06-17 20:08:47,405 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:47,631 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:47,647 [INFO] [Ricevuto da Max] Creatività impostata a: 0.68 -> Temp LLM Limitata: 0.168
+2026-06-17 20:08:47,664 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:47,667 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:47,870 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:48,482 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:50,877 [INFO] [Ricevuto da Max] Creatività impostata a: 0.83 -> Temp LLM Limitata: 0.183
+2026-06-17 20:08:50,959 [INFO] [Ricevuto da Max] Creatività impostata a: 0.81 -> Temp LLM Limitata: 0.181
+2026-06-17 20:08:50,975 [INFO] [Ricevuto da Max] Creatività impostata a: 0.80 -> Temp LLM Limitata: 0.180
+2026-06-17 20:08:50,987 [INFO] [Ricevuto da Max] Creatività impostata a: 0.79 -> Temp LLM Limitata: 0.179
+2026-06-17 20:08:50,990 [INFO] [Ricevuto da Max] Creatività impostata a: 0.79 -> Temp LLM Limitata: 0.179
+2026-06-17 20:08:51,003 [INFO] [Ricevuto da Max] Creatività impostata a: 0.79 -> Temp LLM Limitata: 0.179
+2026-06-17 20:08:51,019 [INFO] [Ricevuto da Max] Creatività impostata a: 0.78 -> Temp LLM Limitata: 0.178
+2026-06-17 20:08:51,035 [INFO] [Ricevuto da Max] Creatività impostata a: 0.77 -> Temp LLM Limitata: 0.177
+2026-06-17 20:08:51,039 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:51,083 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:51,241 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:51,247 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:51,421 [INFO] [Ricevuto da Max] Creatività impostata a: 0.76 -> Temp LLM Limitata: 0.176
+2026-06-17 20:08:51,422 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:51,424 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:51,425 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:08:51,574 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:51,581 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:08:51,616 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:51,699 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:51,706 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:51,855 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:52,024 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:52,025 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:52,267 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:52,322 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:52,655 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:52,925 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:53,140 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:53,141 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:53,528 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:53,529 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:53,535 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:53,539 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:53,597 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:53,600 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:08:53,602 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:53,694 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:53,954 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:53,983 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:53,986 [INFO] [Ricevuto da Max] Creatività impostata a: 0.74 -> Temp LLM Limitata: 0.174
+2026-06-17 20:08:53,998 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:08:54,174 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:08:54,190 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:54,194 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:08:54,212 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:54,255 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:54,258 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:54,286 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:54,734 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-17 20:08:54,750 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:54,754 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:54,798 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:08:54,815 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:55,344 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:55,348 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:55,521 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:08:55,776 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:09:00,721 [INFO] [Ricevuto da Max] Istruzioni testuali aggiornate: dynamic late 80s Japanese action anime scoring inspired by Dragon Ball
+2026-06-17 20:09:02,574 [INFO] 📡 [OSC] Numero di voci impostato a: 4
+2026-06-17 20:09:02,575 [INFO] 📡 [OSC] Voice 1 impostata su: 28 Clean Gt.
+2026-06-17 20:09:02,576 [INFO] 📡 [OSC] Voice 2 impostata su: 30 Overdrive Gt
+2026-06-17 20:09:02,577 [INFO] 📡 [OSC] Voice 3 impostata su: 35 Picked Bs.
+2026-06-17 20:09:02,578 [INFO] 📡 [OSC] Voice 4 impostata su: 18 Organ 2
+2026-06-17 20:09:06,904 [INFO] [Ricevuto da Max] Stile musicale impostato a: synth-pop
+2026-06-17 20:09:15,355 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-17 20:09:15,406 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-17 20:09:15,407 [INFO] Inizializzazione sessione di chat per Gemini con temperatura: 0.16929134130477907
+2026-06-17 20:09:15,407 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-17 20:09:15,408 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:09:15,408 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:09:15,408 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:15,408 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:15,408 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:09:15,408 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:09:15,408 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:09:15,409 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:09:39,136 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:09:39,138 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=23.730s | Formato=JSON
+2026-06-17 20:09:39,139 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-2.5-flash' | Temperatura=0.16929134130477907 | Emozione='Relaxed' | Stile='synth-pop' | BPM=Auto | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=23.730s | Latenza_Per_Battuta=11.865s | Cicli_Refine=0
+2026-06-17 20:09:39,171 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 105 BPM.
+2026-06-17 20:09:39,172 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-2.5-flash_20260617_200831_diaries.txt
+2026-06-17 20:09:39,173 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-2.5-flash_20260617_200831_jsons.txt
+2026-06-17 20:09:39,174 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:09:39,225 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:09:39,333 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:09:39,333 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:09:39,333 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:39,333 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:39,333 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:09:39,333 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:09:39,333 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:09:39,333 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:09:54,635 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:09:54,638 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=15.305s | Formato=JSON
+2026-06-17 20:09:54,639 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-2.5-flash' | Temperatura=0.16929134130477907 | Emozione='Excited' | Stile='synth-pop' | BPM=105 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=15.306s | Latenza_Per_Battuta=7.653s | Cicli_Refine=0
+2026-06-17 20:09:54,680 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-2.5-flash_20260617_200831_diaries.txt
+2026-06-17 20:09:54,681 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-2.5-flash_20260617_200831_jsons.txt
+2026-06-17 20:09:54,683 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:09:54,735 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:09:54,845 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:09:54,845 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:09:54,845 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:54,845 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:09:54,845 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:09:54,845 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:09:54,846 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:09:54,846 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:10:09,934 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:10:09,937 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=15.092s | Formato=JSON
+2026-06-17 20:10:09,938 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-2.5-flash' | Temperatura=0.16929134130477907 | Emozione='Excited' | Stile='synth-pop' | BPM=105 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=15.092s | Latenza_Per_Battuta=7.546s | Cicli_Refine=0
+2026-06-17 20:10:09,985 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-2.5-flash_20260617_200831_diaries.txt
+2026-06-17 20:10:09,986 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-2.5-flash_20260617_200831_jsons.txt
+2026-06-17 20:10:09,987 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:10:10,040 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:10:10,154 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:10:10,155 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:10:10,155 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:10:10,155 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:10:10,155 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:10:10,155 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:10:10,155 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:10:10,156 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:10:34,715 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:10:34,717 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=24.562s | Formato=JSON
+2026-06-17 20:10:34,718 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-2.5-flash' | Temperatura=0.16929134130477907 | Emozione='Sad' | Stile='synth-pop' | BPM=105 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=24.562s | Latenza_Per_Battuta=12.281s | Cicli_Refine=0
+2026-06-17 20:10:34,762 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-2.5-flash_20260617_200831_diaries.txt
+2026-06-17 20:10:34,763 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-2.5-flash_20260617_200831_jsons.txt
+2026-06-17 20:10:34,765 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:10:34,817 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:10:34,934 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-17 20:10:36,935 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Gemini_gemini-2.5-flash_20260617_200831\Gemini_gemini-2.5-flash_20260617_200831_score.xml

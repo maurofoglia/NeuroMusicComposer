@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 14:49:42 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=4 voices. Output requires 4 top-level blocks. 2. Emotion: Relaxed, Medieval castle ballad. Key: G major (modal feel). Time: 4/4. Steady, predictable, consonant. 3. Roles: V1 Kalimba gentle plucks, V2 Banjo staccato rolls, V3 Viola counter-melody, V4 Piano drone/chords. 4. Harmonic Plan: M1 = G major (I), M2 = D (V) -> G (I). Thirds and fifths emphasized. 5. Rhythm Check: V1M1 [1/8 x8]=1, V1M2 [1/8 x8]=1. V2M1 [1/16x8 1/8x4]... let me use [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8]=1. V3M1 [1/4 1/4 1/4 1/4]=1. V4M1 [1/2 1/2]=1. All math correct. Pitches within bounds.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 B4 D5 B4 G4 B4 D5 B4] [D5 B4 D5 A4 G4 B4 D5 G4] ] [ [G3 D4 B3 D4 G3 D4 B3 D4] [A3 D4 A3 D4 G3 D4 B3 G3] ] [ [B3 D4 G4 D4] [A3 D4 G4 G4] ] [ [G2 D3] [D2 G2] ] ]",
+  "durations": "[ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ] [ [1/2 1/2] [1/2 1/2] ] ]",
+  "velocities": "[ [70 65 70 65 70 65 70 65] [75 65 75 65 70 65 70 70] ] [ [60 55 60 55 60 55 60 55] [62 55 62 55 60 55 60 65] ] [ [65 60 70 60] [68 60 70 70] ] [ [70 65] [70 75] ] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ] [ [0 0] [0 0] ] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [tenuto] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:50:01 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Excited, festive medieval castle party. Key: D major (bright, modal). Time: 4/4, BPM=72. 3. Roles: V1 Kalimba lively repetitive plucks, V2 Banjo fast staccato 16th rolls, V3 Viola counter-melody, V4 Piano chords/bass. 4. Harmonic Plan: M1 = D (I), M2 = A (V) -> D (I). Thirds and fifths. 5. Rhythm Check: V1M1 [1/8x8]=1. V2M1 [1/16x16]=1. V3M1 [1/4 1/8 1/8 1/4 1/4]=1. V4M1 [1/4 1/4 1/4 1/4]=1. All correct. Pitches in bounds.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [D5 A4 F#5 A4 D5 A4 F#5 A4] [E5 A4 E5 A4 D5 F#5 A5 D5] ] [ [D4 F#4 A4 D5 A4 F#4 D4 F#4 A4 D5 A4 F#4 D4 F#4 A4 D5] [E4 A4 C#5 E5 C#5 A4 E4 A4 D4 F#4 A4 D5 F#5 A4 F#4 D4] ] [ [A3 D4 F#4 A3 D4 A3] [A3 C#4 E4 D4 F#4 D4] ] [ [D3 A3 F#3 D4] [A2 E3 D3 A3] ] ]",
+  "durations": "[ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16] [1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16] ] [ [1/4 1/8 1/8 1/4 1/4] [1/4 1/8 1/8 1/4 1/4] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ] ]",
+  "velocities": "[ [85 75 85 75 85 75 85 75] [90 75 90 75 85 85 95 90] ] [ [80 70 75 80 70 75 80 70 75 80 70 75 80 70 75 80] [82 70 75 82 75 70 80 70 80 70 75 82 85 70 75 80] ] [ [75 75 80 75 75 80] [78 75 80 75 85 80] ] [ [85 80 80 85] [85 80 80 90] ] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:50:22 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Excited, festive medieval castle dance. Key: G major (bright Ionian/Mixolydian feel). Time: 4/4, BPM=72 strictly. 3. Roles: V1 Kalimba bright repetitive plucks, V2 Banjo fast 16th staccato rolls, V3 Viola flowing counter-melody, V4 Piano chordal bass on the beat. 4. Harmonic Plan: M1 = G (I), M2 = D (V) -> G (I). Thirds and fifths emphasized. 5. Rhythm Check: V1M1 [1/8x8]=1. V2M1 [1/16x16]=1. V3M1 [1/4 1/4 1/8 1/8 1/4]=1. V4M1 [1/4 1/4 1/4 1/4]=1. All sum to 1. Pitches in bounds.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 D5 B4 D5 G4 D5 B4 D5] [A4 D5 A4 D5 G4 B4 D5 G4] ] [ [G4 B4 D5 G5 D5 B4 G4 B4 D5 G5 D5 B4 G4 B4 D5 G5] [A4 C#5 E5 A5 E5 C#5 A4 C#5 D5 G4 B4 D5 G5 D5 B4 G4] ] [ [B3 D4 G4 D4 B3 G4] [C#4 E4 A4 D4 G4 D4] ] [ [G2 D3 B3 D3] [D3 A3 D3 G3] ] ]",
+  "durations": "[ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16] [1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16 1/16] ] [ [1/4 1/4 1/8 1/8 1/4] [1/4 1/4 1/8 1/8 1/4] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ] ]",
+  "velocities": "[ [88 78 85 78 88 78 85 78] [90 78 85 78 88 85 95 90] ] [ [80 70 75 82 70 75 80 70 75 82 70 75 80 70 75 85] [82 70 75 85 75 70 80 70 80 70 75 82 88 70 75 80] ] [ [78 75 82 75 75 85] [80 75 85 75 88 82] ] [ [85 80 80 80] [85 80 80 90] ] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:50:36 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Sad, mournful medieval ballad. Key: E minor (Aeolian). Time: 4/4, BPM=72 strictly. 3. Roles: V1 Kalimba gentle slow plucks, V2 Banjo soft sparse picking, V3 Viola sorrowful counter-melody, V4 Piano low sustained chords. 4. Harmonic Plan: M1 = Em (i), M2 = B (v) -> Em (i). Minor thirds and fifths. 5. Rhythm Check: V1M1 [1/4 1/4 1/4 1/4]=1. V2M1 [1/8x8]=1. V3M1 [1/2 1/4 1/4]=1. V4M1 [1/2 1/2]=1. All sum to 1. Pitches in bounds.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [E4 B4 G4 B4] [E4 G4 B4 E5] ] [ [E4 G4 B4 G4 E4 G4 B4 G4] [F#4 A4 B4 A4 E4 G4 B4 E4] ] [ [B3 G4 E4] [A3 F#4 E4] ] [ [E3 B3] [B2 E3] ] ]",
+  "durations": "[ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/2 1/4 1/4] [1/2 1/4 1/4] ] [ [1/2 1/2] [1/2 1/2] ] ]",
+  "velocities": "[ [60 55 58 55] [60 58 62 65] ] [ [50 48 52 48 50 48 52 48] [52 48 52 48 50 48 52 50] ] [ [58 55 52] [60 55 50] ] [ [55 52] [55 58] ] ]",
+  "ties": "[ [0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0] [0 0] ] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [tenuto] ] ] ] ]"
+}
+

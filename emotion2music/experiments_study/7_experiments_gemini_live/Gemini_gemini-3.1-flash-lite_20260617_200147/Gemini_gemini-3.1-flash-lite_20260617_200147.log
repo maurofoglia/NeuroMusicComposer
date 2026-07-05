@@ -1,0 +1,102 @@
+2026-06-17 20:01:47,519 [INFO] 📂 Setup cartella esperimento completato: experiments\Gemini_gemini-3.1-flash-lite_20260617_200147
+2026-06-17 20:01:47,520 [INFO] [Gemini Backend] Inizializzazione... Modello selezionato: gemini-3.1-flash-lite
+2026-06-17 20:01:49,014 [INFO] Client Gemini configurato.
+2026-06-17 20:01:49,015 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-17 20:01:49,016 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-17 20:02:02,498 [INFO] [Ricevuto da Max] Creatività impostata a: 0.75 -> Temp LLM Limitata: 0.175
+2026-06-17 20:02:02,499 [INFO] [Ricevuto da Max] Istruzioni testuali aggiornate: dynamic late 80s Japanese action anime scoring inspired by Dragon Ball
+2026-06-17 20:02:02,781 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:02:02,785 [INFO] [Ricevuto da Max] Creatività impostata a: 0.73 -> Temp LLM Limitata: 0.173
+2026-06-17 20:02:02,797 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:02:02,925 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:02:02,958 [INFO] [Ricevuto da Max] Creatività impostata a: 0.72 -> Temp LLM Limitata: 0.172
+2026-06-17 20:02:03,021 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:02:03,038 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:02:03,053 [INFO] [Ricevuto da Max] Creatività impostata a: 0.71 -> Temp LLM Limitata: 0.171
+2026-06-17 20:02:03,235 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:02:03,247 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:02:03,264 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:02:03,648 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:02:03,664 [INFO] [Ricevuto da Max] Creatività impostata a: 0.70 -> Temp LLM Limitata: 0.170
+2026-06-17 20:02:03,680 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:02:03,840 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-17 20:02:06,373 [INFO] 📡 [OSC] Numero di voci impostato a: 4
+2026-06-17 20:02:06,374 [INFO] 📡 [OSC] Voice 1 impostata su: 28 Clean Gt.
+2026-06-17 20:02:06,376 [INFO] 📡 [OSC] Voice 2 impostata su: 30 Overdrive Gt
+2026-06-17 20:02:06,377 [INFO] 📡 [OSC] Voice 3 impostata su: 35 Picked Bs.
+2026-06-17 20:02:06,378 [INFO] 📡 [OSC] Voice 4 impostata su: 18 Organ 2
+2026-06-17 20:02:08,318 [INFO] [Ricevuto da Max] Stile musicale impostato a: synth-pop
+2026-06-17 20:02:23,512 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-17 20:02:23,563 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-17 20:02:23,563 [INFO] Inizializzazione sessione di chat per Gemini con temperatura: 0.16929134130477907
+2026-06-17 20:02:23,564 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-17 20:02:23,564 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:02:23,564 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:02:23,564 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:23,564 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:23,564 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:02:23,565 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:02:23,565 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:02:23,565 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:02:28,251 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:02:28,254 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.689s | Formato=JSON
+2026-06-17 20:02:28,255 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-3.1-flash-lite' | Temperatura=0.16929134130477907 | Emozione='Relaxed' | Stile='synth-pop' | BPM=Auto | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=4.690s | Latenza_Per_Battuta=2.345s | Cicli_Refine=0
+2026-06-17 20:02:28,294 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 110 BPM.
+2026-06-17 20:02:28,294 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-3.1-flash-lite_20260617_200147_diaries.txt
+2026-06-17 20:02:28,295 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-3.1-flash-lite_20260617_200147_jsons.txt
+2026-06-17 20:02:28,296 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:02:28,347 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:02:28,457 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:02:28,457 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:02:28,458 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:28,458 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:28,458 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:02:28,458 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:02:28,458 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:02:28,459 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:02:33,347 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:02:33,349 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.891s | Formato=JSON
+2026-06-17 20:02:33,349 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-3.1-flash-lite' | Temperatura=0.16929134130477907 | Emozione='Excited' | Stile='synth-pop' | BPM=110 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=4.891s | Latenza_Per_Battuta=2.446s | Cicli_Refine=0
+2026-06-17 20:02:33,383 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-3.1-flash-lite_20260617_200147_diaries.txt
+2026-06-17 20:02:33,384 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-3.1-flash-lite_20260617_200147_jsons.txt
+2026-06-17 20:02:45,712 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:02:45,765 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:02:45,877 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:02:45,878 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:02:45,878 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:45,878 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:02:45,878 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:02:45,878 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:02:45,878 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:02:45,878 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:02:50,479 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:02:50,481 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.603s | Formato=JSON
+2026-06-17 20:02:50,481 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-3.1-flash-lite' | Temperatura=0.16929134130477907 | Emozione='Excited' | Stile='synth-pop' | BPM=110 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=4.603s | Latenza_Per_Battuta=2.302s | Cicli_Refine=0
+2026-06-17 20:02:50,524 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-3.1-flash-lite_20260617_200147_diaries.txt
+2026-06-17 20:02:50,525 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-3.1-flash-lite_20260617_200147_jsons.txt
+2026-06-17 20:03:03,166 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:03:03,218 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:03:03,332 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: True | Few-Shot: True
+2026-06-17 20:03:03,332 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-17 20:03:03,332 [INFO]    - Voice 1 (28 Clean Gt.): Estensione [E2-D6], Chiave G
+2026-06-17 20:03:03,333 [INFO]    - Voice 2 (30 Overdrive Gt): Estensione [E2-D6], Chiave G
+2026-06-17 20:03:03,333 [INFO]    - Voice 3 (35 Picked Bs.): Estensione [E1-G3], Chiave F
+2026-06-17 20:03:03,333 [INFO]    - Voice 4 (18 Organ 2): Estensione [C2-C7], Chiave G
+2026-06-17 20:03:03,333 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-17 20:03:03,333 [INFO] AFC is enabled with max remote calls: 10.
+2026-06-17 20:03:08,058 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-06-17 20:03:08,063 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.730s | Formato=JSON
+2026-06-17 20:03:08,063 [INFO] [TESI-METRIC] Task='Completed' | Backend='Gemini' | Modello='gemini-3.1-flash-lite' | Temperatura=0.16929134130477907 | Emozione='Sad' | Stile='synth-pop' | BPM=110 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=True | Latenza_Totale=4.731s | Latenza_Per_Battuta=2.365s | Cicli_Refine=0
+2026-06-17 20:03:08,108 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Gemini_gemini-3.1-flash-lite_20260617_200147_diaries.txt
+2026-06-17 20:03:08,109 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Gemini_gemini-3.1-flash-lite_20260617_200147_jsons.txt
+2026-06-17 20:03:20,621 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-17 20:03:20,672 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'F', 'G'], Strumenti = ['Clean Gt.', 'Overdrive Gt', 'Picked Bs.', 'Organ 2'], MIDI = [28, 30, 35, 18]
+2026-06-17 20:03:20,790 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-17 20:03:22,792 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Gemini_gemini-3.1-flash-lite_20260617_200147\Gemini_gemini-3.1-flash-lite_20260617_200147_score.xml
+2026-06-17 20:08:24,354 [INFO] 
+Chiusura del server.

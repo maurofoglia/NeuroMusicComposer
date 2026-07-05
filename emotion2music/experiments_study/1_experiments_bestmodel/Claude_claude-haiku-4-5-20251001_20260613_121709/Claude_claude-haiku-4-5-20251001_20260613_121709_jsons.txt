@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-13 12:17:32 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Emotion & Theme: Relaxed, calm, peaceful. Key: G Major. Time: 4/4. Gentle, flowing atmosphere. 2. Voice Roles & Harmonic Plan: V1 (Piano) provides harmonic foundation with warm chords and gentle arpeggios. V2 (Steel-String Guitar) offers bright, fingerpicked melodic counterpoint. M1: I (G Major) with gentle motion. M2: IV (C Major) to I, creating resolution. Motif: Descending G-E-D pattern in V1, echoed by V2. 3. Rhythm & Vitality: V1M1 [1/8 1/8 1/4 1/4 1/8 1/8] = 1. V1M2 [1/4 1/4 1/2] = 1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4] = 1. V2M2 [1/4 1/8 1/8 1/4 1/4] = 1. Math verified. Mix of eighth notes, quarters, and syncopations creates gentle vitality. 4. Pitch Plan: V1 stays within [A0-C8], using middle-upper register (G4-B5). V2 stays within [E2-C6], using bright fingerpicking range (G3-A5). All notes strictly within bounds. 5. Final Cadence: Gentle resolution to G Major tonic in M2, creating peaceful closure.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 E4 D4 G4 B4 A4] [G4 C5 B4 G4] ] [ [G3 B3 D4 G3 A3 B3] [E4 G4 A4 G4 E4] ]",
+  "durations": "[ [1/8 1/8 1/4 1/4 1/8 1/8] [1/4 1/4 1/2] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/4 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [65 62 60 68 70 65] [72 75 70 65] ] [ [58 60 62 60 65 68] [70 72 70 68 65] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [legato] ] [ [] ] [ [] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:17:40 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion & Theme: Excited, energetic, vibrant. Key: D Major. Time: 4/4, BPM: 72. High energy with driving rhythms and bright harmonies. 2. Voice Roles & Harmonic Plan: V1 (Piano) provides syncopated chordal foundation with expressive leaps and rhythmic vitality. V2 (Steel-String Guitar) delivers bright fingerpicking patterns with folk-pop energy. M1: I (D Major) with ascending motion and syncopation. M2: V7 (A7) resolving to I, creating climactic energy. Motif: D-F#-A ascending arpeggio in V1, echoed by V2 with fingerpicking. 3. Rhythm & Vitality: V1M1 [1/16 1/16 1/8 1/8 1/4 1/8 1/8] = 1. V1M2 [1/8 1/8 1/4 1/4 1/8 1/8] = 1. V2M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/4] = 1. V2M2 [1/16 1/16 1/8 1/8 1/4 1/4] = 1. Sixteenth notes, syncopations, and varied rhythms create excitement. 4. Pitch Plan: V1 uses bright upper-middle register (D4-A5) within [A0-C8]. V2 uses energetic fingerpicking range (D3-B5) within [E2-C6]. All notes strictly within bounds. 5. Final Cadence: Climactic resolution to D Major tonic with accent on final chord, creating excited closure.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [D4 F#4 A4 F#4 D5 A4 F#4] [A5 F#5 D5 A4 F#5 D5] ] [ [D3 A3 F#3 D4 A3 F#3 A3] [B4 D4 F#4 A4 D5 A4] ]",
+  "durations": "[ [1/16 1/16 1/8 1/8 1/4 1/8 1/8] [1/8 1/8 1/4 1/4 1/8 1/8] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/4] [1/16 1/16 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [75 80 85 80 90 85 80] [88 90 85 80 95 90] ] [ [70 75 78 80 82 80 85] [85 88 90 92 95 90] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [accent] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:17:48 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion & Theme: Excited, energetic, vibrant. Key: E Major. Time: 4/4, BPM: 72. High-energy composition with driving rhythms and bright harmonies. 2. Voice Roles & Harmonic Plan: V1 (Piano) provides syncopated chordal foundation with expressive leaps and rhythmic vitality using upper registers. V2 (Steel-String Guitar) delivers bright fingerpicking and folk-pop strumming patterns with energetic counterpoint. M1: I (E Major) with ascending motion and syncopation. M2: V7 (B7) resolving to I, creating climactic energy and resolution. Motif: E-G#-B ascending arpeggio in V1, echoed by V2 with fingerpicking patterns. 3. Rhythm & Vitality: V1M1 [1/16 1/16 1/8 1/8 1/4 1/8 1/8] = 1. V1M2 [1/8 1/8 1/4 1/4 1/8 1/8] = 1. V2M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/4] = 1. V2M2 [1/16 1/16 1/8 1/8 1/4 1/4] = 1. Sixteenth notes, syncopations, and varied rhythms create excitement and vitality. 4. Pitch Plan: V1 uses bright upper-middle register (E4-B5) within [A0-C8]. V2 uses energetic fingerpicking range (E3-B5) within [E2-C6]. All notes strictly within bounds. 5. Final Cadence: Climactic resolution to E Major tonic with accent on final chord, creating excited and satisfying closure.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [E4 G#4 B4 G#4 E5 B4 G#4] [B5 G#5 E5 B4 G#5 E5] ] [ [E3 B3 G#3 E4 B3 G#3 B3] [B4 E4 G#4 B4 E5 B4] ]",
+  "durations": "[ [1/16 1/16 1/8 1/8 1/4 1/8 1/8] [1/8 1/8 1/4 1/4 1/8 1/8] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/4] [1/16 1/16 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [76 81 86 81 91 86 81] [89 91 86 81 96 91] ] [ [71 76 79 81 83 81 86] [86 89 91 93 96 91] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [accent] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:17:57 | Emozione: Sad ---
+{
+  "composer_diary": "1. Emotion & Theme: Sad, melancholic, introspective. Key: A Minor. Time: 4/4, BPM: 72. Slow, mournful atmosphere with minor harmonies and expressive phrasing. 2. Voice Roles & Harmonic Plan: V1 (Piano) provides sorrowful chordal foundation with gentle arpeggios and sustained notes in middle-upper registers. V2 (Steel-String Guitar) delivers melancholic fingerpicking patterns with sparse, poignant notes. M1: i (A Minor) with descending motion. M2: V (E Major) to i, creating tension and resolution. Motif: A-G-F# descending pattern in V1, echoed by V2 with sparse fingerpicking. 3. Rhythm & Vitality: V1M1 [1/8 1/4 1/8 1/4 1/4 1/8 1/8] = 1. V1M2 [1/4 1/4 1/2] = 1. V2M1 [1/4 1/8 1/8 1/4 1/4] = 1. V2M2 [1/2 1/4 1/4] = 1. Slower rhythms with quarter and eighth notes create melancholic pacing. 4. Pitch Plan: V1 uses middle-lower register (A3-F5) within [A0-C8]. V2 uses warm fingerpicking range (A2-E5) within [E2-C6]. All notes strictly within bounds. 5. Final Cadence: Gentle resolution to A Minor tonic with tenuto articulation, creating sad and contemplative closure.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 G4 F#4 E4 A4 G4 F#4] [E5 D5 C5 A4] ] [ [A3 E4 C4 A3 G3 E3] [G4 F#4 E4 A3] ]",
+  "durations": "[ [1/8 1/4 1/8 1/4 1/4 1/8 1/8] [1/4 1/4 1/2] ] [ [1/4 1/8 1/8 1/4 1/4] [1/2 1/4 1/4] ]",
+  "velocities": "[ [55 50 48 45 52 48 45] [60 55 50 48] ] [ [45 48 50 45 42 40] [52 50 48 45] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [tenuto] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] [ [ [tenuto] ] [ [tenuto] ] [ [tenuto] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [tenuto] ] [ [tenuto] ] [ [tenuto] ] ] ]"
+}
+

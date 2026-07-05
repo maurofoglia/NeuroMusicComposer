@@ -1,0 +1,72 @@
+2026-06-13 12:18:41,912 [INFO] 📂 Setup cartella esperimento completato: experiments\Claude_claude-sonnet-4-6_20260613_121841
+2026-06-13 12:18:41,913 [INFO] [Claude Backend] Inizializzazione... Modello selezionato: claude-sonnet-4-6
+2026-06-13 12:18:42,384 [INFO] Client Claude configurato.
+2026-06-13 12:18:42,385 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-13 12:18:42,385 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-13 12:18:47,294 [INFO] 📡 [OSC] Numero di voci impostato a: 1
+2026-06-13 12:18:47,296 [INFO] 📡 [OSC] Numero di voci impostato a: 1
+2026-06-13 12:18:55,740 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-13 12:18:58,758 [INFO] 📡 [OSC] Voice 1 impostata su: 1 Piano 1
+2026-06-13 12:19:04,546 [INFO] 📡 [OSC] Voice 2 impostata su: 26 Steel-Str. Gt
+2026-06-13 12:19:12,620 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-13 12:19:12,672 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-13 12:19:12,672 [INFO] Inizializzazione sessione di chat per Claude con temperatura: 0.1
+2026-06-13 12:19:12,672 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-13 12:19:12,672 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:19:12,673 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:19:12,673 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:19:12,673 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:19:12,673 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:19:36,539 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 12:19:36,588 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=23.915s | Formato=JSON
+2026-06-13 12:19:36,589 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=23.916s | Latenza_Per_Battuta=11.958s | Cicli_Refine=0
+2026-06-13 12:19:36,627 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-13 12:19:36,627 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_121841_diaries.txt
+2026-06-13 12:19:36,628 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_121841_jsons.txt
+2026-06-13 12:19:36,630 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:19:36,681 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:19:36,788 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:19:36,788 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:19:36,788 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:19:36,788 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:19:36,788 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:20:00,799 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 12:20:00,800 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=24.012s | Formato=JSON
+2026-06-13 12:20:00,800 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=24.012s | Latenza_Per_Battuta=12.006s | Cicli_Refine=0
+2026-06-13 12:20:00,834 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_121841_diaries.txt
+2026-06-13 12:20:00,835 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_121841_jsons.txt
+2026-06-13 12:20:00,835 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:20:00,887 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:20:00,993 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:20:00,993 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:20:00,993 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:20:00,993 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:20:00,993 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:20:19,550 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 12:20:19,551 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=18.558s | Formato=JSON
+2026-06-13 12:20:19,552 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=18.558s | Latenza_Per_Battuta=9.279s | Cicli_Refine=0
+2026-06-13 12:20:19,584 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_121841_diaries.txt
+2026-06-13 12:20:19,585 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_121841_jsons.txt
+2026-06-13 12:20:19,586 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:20:19,638 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:20:19,747 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:20:19,747 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:20:19,747 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:20:19,747 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:20:19,747 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:20:38,792 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 12:20:38,794 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=19.046s | Formato=JSON
+2026-06-13 12:20:38,795 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=19.047s | Latenza_Per_Battuta=9.524s | Cicli_Refine=0
+2026-06-13 12:20:38,836 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_121841_diaries.txt
+2026-06-13 12:20:38,837 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_121841_jsons.txt
+2026-06-13 12:20:38,838 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:20:38,889 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:20:39,000 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-13 12:20:41,003 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Claude_claude-sonnet-4-6_20260613_121841\Claude_claude-sonnet-4-6_20260613_121841_score.xml
+2026-06-13 12:21:15,702 [INFO] 
+Chiusura del server.

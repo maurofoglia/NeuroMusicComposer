@@ -1,0 +1,5 @@
+Timestamp;Task;Backend;Modello;Temperatura;Emozione;Stile;BPM;Voci;Battute;Prompt_Type;Usa_RE2;Latenza_Totale (s);Latenza_Per_Battuta (s);Cicli_Refine
+2026-06-17 20:02:28;Completed;Gemini;gemini-3.1-flash-lite;0.16929134130477907;Relaxed;synth-pop;Auto;4;2;Few-Shot;True;4.69;2.345;0
+2026-06-17 20:02:33;Completed;Gemini;gemini-3.1-flash-lite;0.16929134130477907;Excited;synth-pop;110;4;2;Few-Shot;True;4.891;2.446;0
+2026-06-17 20:02:50;Completed;Gemini;gemini-3.1-flash-lite;0.16929134130477907;Excited;synth-pop;110;4;2;Few-Shot;True;4.603;2.302;0
+2026-06-17 20:03:08;Completed;Gemini;gemini-3.1-flash-lite;0.16929134130477907;Sad;synth-pop;110;4;2;Few-Shot;True;4.731;2.365;0

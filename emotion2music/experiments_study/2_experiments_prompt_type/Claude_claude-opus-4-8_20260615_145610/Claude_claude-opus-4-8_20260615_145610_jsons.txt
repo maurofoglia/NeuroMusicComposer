@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 14:57:26 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=3 voices. Output requires 3 top-level blocks. 2. Emotion: Relaxed rock, mellow groove in A major with bluesy color (add9, maj7). Time 4/4, two measures. Climax mid M2 then settle. 3. Roles: V1 Overdrive Gt = power-chord riff with syncopation; V2 Steel-Str Gt = arpeggiated fingerpicking; V3 Steel Drums = laid-back calypso melody. 4. Rhythm Check: V1M1 [3/8 1/8 1/4 1/4]=1; V1M2 [1/4 1/8 1/8 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1; V2M2 [1/8 1/8 1/4 1/8 1/8 1/4]=1. V3M1 [1/4 1/8 1/8 1/4 1/4]=1; V3M2 [1/8 1/8 1/8 1/8 1/2]=1. All sum to 1. 5. Pitch Plan: V1 E2-D6 ok; V2 E2-C6 ok; V3 C3-C6 ok. Final cadence on A.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[A2 E3] [A2 E3] [D3 A3] [E3 B3]] [[A2 E3] [C#3] [D3 A3] [A2 E3]] ] [ [A3 C#4 E4 A4 G#4 E4] [F#4 A4 D4 C#4 B3 A3] ] [ [A4 C#5 E5 B4 A4] [G#4 B4 C#5 E5 A5] ]",
+  "durations": "[ [3/8 1/8 1/4 1/4] [1/4 1/8 1/8 1/2] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/8 1/8 1/4] ] [ [1/4 1/8 1/8 1/4 1/4] [1/8 1/8 1/8 1/8 1/2] ]",
+  "velocities": "[ [75 70 78 80] [78 72 82 70] ] [ [60 62 65 68 64 60] [62 64 66 63 60 58] ] [ [70 74 78 72 68] [72 75 80 85 70] ]",
+  "ties": "[ [0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] ] [ [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:57:42 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices, 3 top-level blocks. 2. Emotion: Excited energetic rock in E major, driving syncopated riffs, bluesy chromatic passing tones. BPM fixed at 72. 3. Roles: V1 Overdrive Gt = punchy power chords with syncopation; V2 Steel-Str Gt = bright fingerpicked arpeggios; V3 Steel Drums = lively calypso lead. 4. Rhythm Check: V1M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1; V1M2 [1/4 1/8 1/8 1/8 1/8 1/4]=1. V2M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/4]=1; V2M2 [1/4 1/8 1/8 1/8 1/8 1/4]=1. V3M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1; V3M2 [1/8 1/16 1/16 1/8 1/8 1/2]=1. All sum to 1. 5. Pitch Plan: V1 E2-D6 ok; V2 E2-C6 ok; V3 C3-C6 ok. Climax mid M2, cadence on E.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[E2 B2] [E2 B2] [A2 E3] [G2 D3] [G#2 D#3] [A2 E3]] [[B2 F#3] [B2 F#3] [A2 E3] [G#2 D#3] [G2 D3] [E2 B2]] ] [ [E3 G#3 B3 E4 G#4 B4 E4] [A3 C#4 E4 A4 G#4 E4] ] [ [E5 G#5 B5 A5 G#5 E5] [F#5 G5 G#5 B5 A5 E5] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/4] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/16 1/16 1/8 1/8 1/2] ]",
+  "velocities": "[ [90 88 95 85 87 92] [95 88 90 85 88 100] ] [ [70 72 75 78 74 76 72] [74 76 80 82 78 72] ] [ [85 90 95 88 86 92] [88 90 95 100 92 80] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:57:58 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices, 3 top-level blocks. 2. Emotion: Excited driving rock in D major, syncopated energetic riffs with bluesy chromatic passing tones. BPM fixed 72. 3. Roles: V1 Overdrive Gt = power chords with punchy syncopation; V2 Steel-Str Gt = bright fingerpicked arpeggios; V3 Steel Drums = vibrant calypso lead. 4. Rhythm Check: V1M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1; V1M2 [3/8 1/8 1/4 1/4]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1; V2M2 [1/8 1/8 1/8 1/8 1/8 1/8 1/4]=1. V3M1 [1/4 1/8 1/8 1/8 1/8 1/4]=1; V3M2 [1/8 1/16 1/16 1/8 1/8 1/2]=1. All sum to 1. 5. Pitch Plan: V1 E2-D6 ok; V2 E2-C6 ok; V3 C3-C6 ok. Climax mid M2, cadence on D.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[D3 A3] [D3 A3] [G3 D4] [F3 C4] [F#3 C#4] [G3 D4]] [[A2 E3] [A2 E3] [D3 A3] [D3 A3]] ] [ [D4 F#4 A4 D5 A4 F#4] [G4 B4 D5 A4 F#4 D4 E4] ] [ [D5 F#5 A5 G5 F#5 D5] [E5 F5 F#5 A5 G5 D5] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/4] [3/8 1/8 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/8 1/8 1/8 1/8 1/8 1/4] ] [ [1/4 1/8 1/8 1/8 1/8 1/4] [1/8 1/16 1/16 1/8 1/8 1/2] ]",
+  "velocities": "[ [92 88 96 86 88 94] [98 90 92 100] ] [ [72 74 76 80 76 78] [75 77 80 83 79 73 74] ] [ [86 92 96 89 87 93] [89 91 96 102 94 82] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [staccato] ] [ [] ] [ [staccato] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:58:11 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=3 voices, 3 top-level blocks. 2. Emotion: Sad slow rock ballad in B minor, mournful with suspended and minor7 colors, occasional chromatic descent. BPM fixed 72. 3. Roles: V1 Overdrive Gt = sustained power chords with bluesy bends feel; V2 Steel-Str Gt = gentle arpeggiated fingerpicking; V3 Steel Drums = melancholic calypso melody. 4. Rhythm Check: V1M1 [1/2 1/4 1/4]=1; V1M2 [3/8 1/8 1/2]=1. V2M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1; V2M2 [1/4 1/8 1/8 1/4 1/4]=1. V3M1 [1/4 1/8 1/8 1/2]=1; V3M2 [3/8 1/8 1/4 1/4]=1. All sum to 1. 5. Pitch Plan: V1 E2-D6 ok; V2 E2-C6 ok; V3 C3-C6 ok. Climax M2, resolve on B minor.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[B2 F#3] [E3 B3] [G2 D3]] [[F#2 C#3] [A2 E3] [B2 F#3]] ] [ [B3 D4 F#4 B4 A4 F#4] [E4 G4 B4 D4 F#4] ] [ [F#4 A4 G4 F#4] [E4 D4 C#4 B3 A3] ] ",
+  "durations": "[ [1/2 1/4 1/4] [3/8 1/8 1/2] ] [ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/4 1/4] ] [ [1/4 1/8 1/8 1/2] [3/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [60 65 58] [55 62 50] ] [ [50 52 55 58 54 50] [52 54 58 50 48] ] [ [62 66 60 55] [58 56 54 50 45] ]",
+  "ties": "[ [0 0 0] [0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ]"
+}
+

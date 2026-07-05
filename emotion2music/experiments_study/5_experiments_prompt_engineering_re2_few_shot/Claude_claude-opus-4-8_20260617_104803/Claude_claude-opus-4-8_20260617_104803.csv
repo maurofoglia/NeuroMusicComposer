@@ -1,0 +1,5 @@
+Timestamp;Task;Backend;Modello;Temperatura;Emozione;Stile;BPM;Voci;Battute;Prompt_Type;Usa_RE2;Latenza_Totale (s);Latenza_Per_Battuta (s);Cicli_Refine
+2026-06-17 10:48:44;Completed;Claude;claude-opus-4-8;0.1;Relaxed;auto;Auto;3;2;Zero-Shot;False;14.559;7.279;0
+2026-06-17 10:49:02;Completed;Claude;claude-opus-4-8;0.1;Excited;auto;72;3;2;Zero-Shot;False;16.451;8.225;0
+2026-06-17 10:49:19;Completed;Claude;claude-opus-4-8;0.1;Excited;auto;72;3;2;Zero-Shot;False;16.568;8.284;0
+2026-06-17 10:49:34;Completed;Claude;claude-opus-4-8;0.1;Sad;auto;72;3;2;Zero-Shot;False;14.742;7.371;0

@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 23:42:28 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba). 2. Emotion: Relaxed, but Star Wars heroic brass chorale - noble and warm. Key: Bb Major. Time: 4/4. Simple consonant diatonic harmony, steady rhythms. 3. Roles: V1 Trumpet noble melody, V2 Trombone tenor support, V3 Horn soaring inner line, V4 Tuba steady quarter bass. 4. Harmonic Plan: M1 = I (Bb) -> IV (Eb), M2 = V (F) -> I (Bb). 5. Rhythm Check: V1M1 [1/4 1/4 1/4 1/4]=1, V1M2 [1/2 1/4 1/4]=1. V2M1 [1/2 1/2]=1, V2M2 [1/4 1/4 1/2]=1. V3M1 [1/4 1/4 1/2]=1, V3M2 [1/2 1/2]=1. V4M1 [1/4 1/4 1/4 1/4]=1, V4M2 [1/4 1/4 1/4 1/4]=1. 6. Pitch Plan: Trumpet within E3-C6, Trombone E2-F4, Horn F2-F5, Tuba D1-F3. All respected. 7. Cadence: V-I authentic.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [Bb4 D5 F5 D5] [Bb4 C5 Bb4] ] [ [F3 Bb3] [Eb3 F3 D3] ] [ [D4 F4 Bb4] [A4 Bb4] ] [ [Bb1 F1 Eb1 Bb1] [F1 F1 Bb1 Bb1] ]",
+  "durations": "[ [1/4 1/4 1/4 1/4] [1/2 1/4 1/4] ] [ [1/2 1/2] [1/4 1/4 1/2] ] [ [1/4 1/4 1/2] [1/2 1/2] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [80 82 88 80] [85 80 78] ] [ [70 72] [70 72 68] ] [ [68 70 75] [72 70] ] [ [78 75 75 78] [76 76 80 78] ]",
+  "ties": "[ [0 0 0 0] [0 0 0] ] [ [0 0] [0 0 0] ] [ [0 0 0] [0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 23:42:41 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba). Output requires 4 top-level blocks. BPM fixed at 72. 2. Emotion: Excited, Star Wars heroic brass fanfare - triumphant and energetic. Key: C Major. Time: 4/4. Simple consonant diatonic harmony (thirds, fifths), steady predictable rhythms on the beat. 3. Roles: V1 Trumpet bright fanfare with accents/staccato, V2 Trombone powerful tenor, V3 Horn noble soaring line, V4 Tuba steady quarter-note bass. 4. Harmonic Plan: M1 = I (C) -> V (G), M2 = IV (F) -> V (G) -> I (C). 5. Rhythm Check: V1M1 [1/8 1/8 1/4 1/4 1/4]=1, V1M2 [1/4 1/4 1/4 1/4]=1. V2M1 [1/4 1/4 1/2]=1, V2M2 [1/2 1/2]=1. V3M1 [1/2 1/4 1/4]=1, V3M2 [1/4 1/4 1/2]=1. V4M1 [1/4 1/4 1/4 1/4]=1, V4M2 [1/4 1/4 1/4 1/4]=1. 6. Pitch Plan: Trumpet E3-C6, Trombone E2-F4, Horn F2-F5, Tuba D1-F3. All respected. 7. Cadence: V-I authentic strong finish.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 G4 C5 E5 G5] [F5 E5 D5 G5] ] [ [C3 E3 G3] [F3 D3] ] [ [E4 G4 C5] [C4 D4 E4] ] [ [C2 G2 C2 G2] [F2 G2 G2 C2] ]",
+  "durations": "[ [1/8 1/8 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ] [ [1/4 1/4 1/2] [1/2 1/2] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [88 88 92 95 100] [95 92 90 100] ] [ [82 82 85] [80 85] ] [ [75 78 82] [76 78 85] ] [ [85 82 85 82] [84 86 88 90] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [accent] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [accent] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 23:42:55 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba). 4 top-level blocks. BPM strictly 72. 2. Emotion: Excited, Star Wars triumphant brass fanfare - bold and majestic. Key: Eb Major (classic heroic brass key). Time: 4/4. Simple diatonic consonant harmony (thirds, fifths), steady on-the-beat rhythms. 3. Roles: V1 Trumpet heroic fanfare with accents, V2 Trombone strong tenor support, V3 Horn noble soaring line, V4 Tuba steady quarter-note bass. 4. Harmonic Plan: M1 = I (Eb) -> V (Bb), M2 = IV (Ab) -> V (Bb) -> I (Eb). 5. Rhythm Check: V1M1 [1/8 1/8 1/4 1/4 1/4]=1, V1M2 [1/4 1/4 1/2]=1. V2M1 [1/4 1/4 1/2]=1, V2M2 [1/2 1/2]=1. V3M1 [1/2 1/4 1/4]=1, V3M2 [1/4 1/4 1/2]=1. V4M1 [1/4 1/4 1/4 1/4]=1, V4M2 [1/4 1/4 1/4 1/4]=1. 6. Pitch Plan: Trumpet E3-C6, Trombone E2-F4, Horn F2-F5, Tuba D1-F3. All respected. 7. Cadence: V-I authentic strong finish on Eb.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [Bb4 Bb4 Eb5 G5 Bb5] [Ab5 G5 Eb5] ] [ [Eb3 G3 Bb3] [F3 Bb3] ] [ [G4 Bb4 Eb5] [Eb4 F4 G4] ] [ [Eb2 Bb2 Eb2 Bb2] [Ab2 Bb2 Bb2 Eb2] ]",
+  "durations": "[ [1/8 1/8 1/4 1/4 1/4] [1/4 1/4 1/2] ] [ [1/4 1/4 1/2] [1/2 1/2] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [90 90 95 98 105] [100 95 105] ] [ [85 85 88] [82 90] ] [ [78 80 85] [78 80 88] ] [ [88 85 88 85] [86 88 90 95] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0] ] [ [0 0 0] [0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [accent] ] ] ] [ [ [ [accent] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [accent] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 23:43:08 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba). 4 top-level blocks. BPM strictly 72. 2. Emotion: Sad, Star Wars elegiac brass chorale - mournful and noble (like Leia's lament). Key: A minor. Time: 4/4. Simple consonant diatonic harmony (thirds, fifths), steady, slow predictable rhythms on the beat. 3. Roles: V1 Trumpet plaintive melody with tenuto, V2 Trombone solemn tenor, V3 Horn soaring mournful inner line, V4 Tuba steady low bass. 4. Harmonic Plan: M1 = i (Am) -> VI (F), M2 = iv (Dm) -> V (E) -> i (Am). 5. Rhythm Check: V1M1 [1/4 1/4 1/2]=1, V1M2 [1/2 1/4 1/4]=1. V2M1 [1/2 1/2]=1, V2M2 [1/4 1/4 1/2]=1. V3M1 [1/2 1/2]=1, V3M2 [1/2 1/2]=1. V4M1 [1/4 1/4 1/4 1/4]=1, V4M2 [1/4 1/4 1/4 1/4]=1. 6. Pitch Plan: Trumpet E3-C6, Trombone E2-F4, Horn F2-F5, Tuba D1-F3. All respected. 7. Cadence: V-i minor authentic, sorrowful resolution.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 C5 B4] [A4 G4 E4] ] [ [A3 F3] [D3 E3 E3] ] [ [E4 C4] [F4 E4] ] [ [A1 E2 A1 F1] [D2 E2 E2 A1] ]",
+  "durations": "[ [1/4 1/4 1/2] [1/2 1/4 1/4] ] [ [1/2 1/2] [1/4 1/4 1/2] ] [ [1/2 1/2] [1/2 1/2] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [65 68 62] [60 58 55] ] [ [58 55] [55 58 52] ] [ [55 52] [58 50] ] [ [62 60 60 58] [58 60 58 55] ]",
+  "ties": "[ [0 0 0] [0 0 0] ] [ [0 0] [0 0 0] ] [ [0 0] [0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+

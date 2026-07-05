@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-17 10:48:44 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Emotion: Relaxed. Key: F Major, warm and gentle. Time: 4/4. BPM: 72 (calm, unhurried). Climax mild near M2 beat 1. 2. Voice Roles: V1 Piano = soft arpeggiated chords with syncopation (I-IV-V7-I plan). V2 Flute = airy floating melody with gentle leaps. V3 Cello = warm sustained bassline walking. Harmonic Plan: M1 = Fmaj7 -> Bbmaj7, M2 = C7 -> Fmaj. 3. Math Check: V1M1: 5 elements [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. V1M2: 4 elements [1/2 1/8 1/8 1/4]=1. Pitches 4. MATCH. V2M1: 5 elements [1/8 1/8 1/4 1/8 3/8]=1. Pitches 5. MATCH. V2M2: 4 elements [1/4 1/8 1/8 1/2]=1. Pitches 4. MATCH. V3M1: 3 elements [1/2 1/4 1/4]=1. Pitches 3. MATCH. V3M2: 3 elements [1/4 1/4 1/2]=1. Pitches 3. MATCH. 4. Pitch Plan: V1 within A0-C8, V2 within C4-C7, V3 within C2-A5. All safe. 5. Final Cadence: C7 -> Fmaj resolution, soft and warm.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [F3 A3 C4 E4 F4] [Bb3 D4 F4 Bb4] ] [ [C5 D5 F5 E5 C5] [G4 A4 C5 A4] ] [ [F2 A2 C3] [G2 C3 F2] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/4] [1/2 1/8 1/8 1/4] ] [ [1/8 1/8 1/4 1/8 3/8] [1/4 1/8 1/8 1/2] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ]",
+  "velocities": "[ [55 50 52 58 55] [60 55 52 65] ] [ [60 62 68 60 70] [65 60 58 72] ] [ [50 48 52] [55 50 45] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [tenuto] ] [ [] ] [ [legato] ] ] [ [ [legato] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:49:02 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion: Excited. Key: D Major, bright and energetic. Time: 4/4. BPM: 72 (fixed). Despite slow tempo, excitement via fast subdivisions (16ths), syncopation, leaps. Climax M2 beat 1 high register. 2. Voice Roles: V1 Piano = punchy syncopated chords with rapid arpeggios (I-V-vi-IV plan). V2 Flute = darting fast 16th-note flourishes with big leaps. V3 Cello = driving energetic bassline with rhythmic drive. Harmonic Plan: M1 = D -> A, M2 = Bm -> G -> D. 3. Math Check: V1M1: 6 elements [1/8 1/8 1/16 1/16 1/8 1/2]=1. Pitches 6. MATCH. V1M2: 6 elements [1/4 1/8 1/8 1/8 1/8 1/4]=1. Pitches 6. MATCH. V2M1: 7 elements [1/16 1/16 1/16 1/16 1/8 1/8 3/8]=1. Pitches 7. MATCH. V2M2: 6 elements [1/8 1/8 1/16 1/16 1/4 1/4]=1. Pitches 6. MATCH. V3M1: 5 elements [1/8 1/8 1/8 1/8 1/2]=1. Pitches 5. MATCH. V3M2: 5 elements [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. 4. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. 5. Final Cadence: G -> D resolution, bright triumphant.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [D3 A3 D4 F#4 A4 D5] [B3 D4 F#4 G4 B4 D5] ] [ [D5 E5 F#5 A5 G5 F#5 A5] [B5 A5 G5 F#5 G5 D5] ] [ [D2 A2 D3 A2 D3] [B2 F#2 G2 A2 D3] ]",
+  "durations": "[ [1/8 1/8 1/16 1/16 1/8 1/2] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/16 1/16 1/16 1/16 1/8 1/8 3/8] [1/8 1/8 1/16 1/16 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/2] [1/4 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [85 80 82 88 90 100] [88 82 85 90 92 95] ] [ [90 92 95 105 98 95 108] [100 95 90 88 92 100] ] [ [80 75 82 78 88] [85 78 80 82 90] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [accent] ] ] ] [ [ [ [accent] ] [ [staccato] ] [ [] ] [ [staccato] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:49:19 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion: Excited. Key: A Major, vibrant and uplifting. Time: 4/4. BPM: 72 (fixed). Excitement through rapid 16ths, syncopated accents, wide leaps. Climax M2 beat 1. 2. Voice Roles: V1 Piano = bold syncopated chords + sparkling arpeggio bursts (I-IV-V-vi). V2 Flute = brilliant fast leaping runs. V3 Cello = propulsive driving bass with offbeat energy. Harmonic Plan: M1 = A -> D, M2 = E7 -> F#m -> A. 3. Math Check: V1M1: 6 elements [1/8 1/16 1/16 1/8 1/8 1/2]=1. Pitches 6. MATCH. V1M2: 7 elements [1/8 1/8 1/16 1/16 1/8 1/8 1/4]=1. Pitches 7. MATCH. V2M1: 7 elements [1/16 1/16 1/8 1/16 1/16 1/8 3/8]=1. Pitches 7. MATCH. V2M2: 6 elements [1/16 1/16 1/16 1/16 1/4 3/8]=1. Pitches 6. MATCH. V3M1: 5 elements [1/8 1/8 1/8 1/8 1/2]=1. Pitches 5. MATCH. V3M2: 6 elements [1/8 1/8 1/8 1/8 1/4 1/4]=1. Pitches 6. MATCH. 4. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. 5. Final Cadence: E7 -> A bright resolution.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A3 E4 A4 C#5 E5 A5] [D4 F#4 A4 D5 F#5 A5 D5] ] [ [A5 B5 C#6 E6 D6 C#6 E6] [G#5 A5 B5 C#6 E6 A6] ] [ [A2 E3 A2 E3 A2] [E2 B2 E3 B2 C#3 A2] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/2] [1/8 1/8 1/16 1/16 1/8 1/8 1/4] ] [ [1/16 1/16 1/8 1/16 1/16 1/8 3/8] [1/16 1/16 1/16 1/16 1/4 3/8] ] [ [1/8 1/8 1/8 1/8 1/2] [1/8 1/8 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [88 82 85 90 95 105] [90 85 87 92 98 108 100] ] [ [95 98 100 110 102 98 112] [92 96 100 105 110 115] ] [ [82 78 84 80 90] [85 80 82 78 88 92] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [accent] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [accent] ] [ [accent] ] ] ] [ [ [ [accent] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [tenuto] ] ] [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [accent] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:49:34 | Emozione: Sad ---
+{
+  "composer_diary": "1. Emotion: Sad. Key: C minor, mournful and heavy. Time: 4/4. BPM: 72 (fixed). Slow descending lines, sighing motifs, suspensions. Climax M2 beat 1 with a weeping high flute note. 2. Voice Roles: V1 Piano = sparse low chords with sustained suspensions (i-iv-V7-i). V2 Flute = plaintive descending melody with sighing appoggiaturas. V3 Cello = somber slow bassline with expressive long bows. Harmonic Plan: M1 = Cm -> Fm, M2 = G7 -> Cm. 3. Math Check: V1M1: 4 elements [1/2 1/8 1/8 1/4]=1. Pitches 4. MATCH. V1M2: 4 elements [1/4 1/4 1/8 3/8]=1. Pitches 4. MATCH. V2M1: 5 elements [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. V2M2: 4 elements [3/8 1/8 1/4 1/4]=1. Pitches 4. MATCH. V3M1: 3 elements [1/2 1/4 1/4]=1. Pitches 3. MATCH. V3M2: 3 elements [1/4 1/4 1/2]=1. Pitches 3. MATCH. 4. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. 5. Final Cadence: G7 -> Cm, soft dying resolution.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [C3 Eb3 G3 Ab3] [F3 Ab3 G3 C3] ] [ [G4 F4 Eb4 D4 Eb4] [Ab4 G4 F4 Eb4] ] [ [C2 G2 Ab2] [G2 F2 C2] ]",
+  "durations": "[ [1/2 1/8 1/8 1/4] [1/4 1/4 1/8 3/8] ] [ [1/4 1/8 1/8 1/4 1/4] [3/8 1/8 1/4 1/4] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ]",
+  "velocities": "[ [50 45 48 52] [50 48 45 40] ] [ [58 54 50 48 52] [65 58 52 45] ] [ [48 44 46] [50 45 38] ]",
+  "ties": "[ [0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [legato] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] ]"
+}
+

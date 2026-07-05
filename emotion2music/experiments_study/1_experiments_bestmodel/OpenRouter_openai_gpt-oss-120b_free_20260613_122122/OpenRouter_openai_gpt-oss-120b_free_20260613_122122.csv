@@ -1,0 +1,5 @@
+Timestamp;Task;Backend;Modello;Temperatura;Emozione;Stile;BPM;Voci;Battute;Prompt_Type;Usa_RE2;Latenza_Totale (s);Latenza_Per_Battuta (s);Cicli_Refine
+2026-06-13 12:23:52;Completed;OpenRouter;openai/gpt-oss-120b:free;0.1;Relaxed;auto;Auto;2;2;Few-Shot;False;39.987;19.994;0
+2026-06-13 12:24:24;Completed;OpenRouter;openai/gpt-oss-120b:free;0.1;Excited;auto;72;2;2;Few-Shot;False;31.952;15.976;0
+2026-06-13 12:24:58;Completed;OpenRouter;openai/gpt-oss-120b:free;0.1;Excited;auto;72;2;2;Few-Shot;False;33.495;16.748;0
+2026-06-13 12:25:25;Completed;OpenRouter;openai/gpt-oss-120b:free;0.1;Sad;auto;72;2;2;Few-Shot;False;27.44;13.72;0

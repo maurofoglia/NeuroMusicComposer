@@ -1,0 +1,9 @@
+anthropic
+google-genai
+groq
+json-repair
+ollama
+openai
+openpyxl
+pandas
+python-osc

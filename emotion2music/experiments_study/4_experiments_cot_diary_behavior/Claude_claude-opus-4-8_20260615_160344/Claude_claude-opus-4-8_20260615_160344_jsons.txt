@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 16:05:07 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Config: N=4 voices, 4 top-level blocks. Emotion: Relaxed but epic Star Wars battle. Key: C minor with heroic brass-like fanfares adapted to woodwinds. Time 4/4. 2. Roles: V1 Flute heroic motif up high, V2 Oboe counter-melody, V3 Clarinet arpeggiated runs/harmony, V4 Bassoon driving ostinato bass. 3. Harmonic Plan: M1 = i (Cm) -> bVI (Ab) tension; M2 = V7 (G7) -> i (Cm) heroic resolution with Picardy hint. Climax on beat 1 of M2. 4. Rhythm Check: V1M1 [3/8 1/8 1/4 1/8 1/8]=1. V1M2 [1/2 1/4 1/8 1/8]=1. V2M1 [1/4 1/4 1/4 1/4]=1. V2M2 [1/2 1/4 1/4]=1. V3M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8]=1. V3M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1. V4M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1. V4M2 [1/4 1/8 1/8 1/2]=1. 5. Pitch Plan: Flute C5-G5, Oboe within Bb3-G5, Clarinet runs D3-C6, Bassoon Bb1-Eb4. All in range.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 C5 Eb5 D5 Eb5 G5] [Ab5 G5 Eb5 C5] ] [ [Eb4 D4 Eb4 G4] [Bb4 Ab4 G4] ] [ [C4 Eb4 G4 C5 Bb4 G4 Eb4 C4] [C4 Eb4 G4 Ab4 G4 Eb4] ] [ [C2 C3 G2 Ab2 Ab1 Eb3] [G2 G2 D3 C2] ]",
+  "durations": "[ [3/8 1/8 1/4 1/8 1/8] [1/2 1/4 1/8 1/8] ] [ [1/4 1/4 1/4 1/4] [1/2 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/4 1/4] ] [ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/2] ]",
+  "velocities": "[ [85 90 95 90 95 100] [110 100 90 85] ] [ [75 70 75 80] [90 80 75] ] [ [70 72 74 76 74 72 70 68] [75 77 80 82 78 70] ] [ [90 85 88 90 95 88] [95 90 92 100] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [legato] ] [ [] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [] ] [ [accent] ] [ [] ] ] [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 16:05:24 | Emozione: Excited ---
+{
+  "composer_diary": "1. Config: N=4 voices, 4 top-level blocks, BPM=72 fixed. Emotion: Excited, epic Star Wars battle. Key: D minor heroic fanfare adapted to woodwinds. Time 4/4. 2. Roles: V1 Flute soaring heroic theme, V2 Oboe singing counter-line, V3 Clarinet fast arpeggiated runs, V4 Bassoon driving staccato ostinato bass. 3. Harmonic Plan: M1 = i (Dm) -> bVII (C) momentum; M2 = V7 (A7) -> i (Dm) triumphant. Climax beat 1 M2. Chromatic passing in clarinet. 4. Rhythm Check: V1M1 [1/4 1/8 1/8 1/4 1/8 1/8]=1. V1M2 [3/8 1/8 1/4 1/4]=1. V2M1 [1/2 1/4 1/8 1/8]=1. V2M2 [1/4 1/4 1/2]=1. V3M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8]=1. V3M2 [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/4]=1. V4M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1. V4M2 [1/8 1/8 1/4 1/8 1/8 1/4]=1. 5. Pitch: Flute D5-A5 in C4-C7, Oboe Bb3-G5, Clarinet runs D3-D5, Bassoon D2-A2. All valid.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 D5 F5 A5 G5 F5] [A5 G5 F5 D5] ] [ [F4 E4 D4 F4] [E4 F4 A4] ] [ [D4 F4 A4 D5 C5 A4 F4 D4] [D4 E4 F4 G4 A4 Bb4 A4 F4] ] [ [D2 A2 D3 A2 D2 C2] [Bb1 A2 D3 A2 D2 A2] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/8 1/8] [3/8 1/8 1/4 1/4] ] [ [1/2 1/4 1/8 1/8] [1/4 1/4 1/2] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/8 1/8 1/4] ]",
+  "velocities": "[ [90 95 100 110 100 95] [115 105 95 90] ] [ [80 78 75 80] [85 82 95] ] [ [72 74 76 78 76 74 72 70] [78 80 82 84 86 88 84 78] ] [ [95 90 92 90 95 90] [105 95 92 90 95 100] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [accent] ] [ [] ] ] [ [ [accent] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [staccato] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 16:05:41 | Emozione: Excited ---
+{
+  "composer_diary": "1. Config: N=4 voices, 4 top-level blocks, BPM=72 fixed. Emotion: Excited, epic Star Wars battle scene. Key: E minor heroic fanfare for woodwinds. Time 4/4. 2. Roles: V1 Flute brilliant soaring theme, V2 Oboe lyrical counter-melody, V3 Clarinet rapid arpeggiated runs, V4 Bassoon punchy staccato ostinato. 3. Harmonic Plan: M1 = i (Em) -> bVI (C) heroic lift; M2 = V7 (B7) -> i (Em) triumphant with chromatic passing. Climax beat 1 M2. 4. Rhythm Check: V1M1 [1/4 1/8 1/8 1/4 1/8 1/8]=1. V1M2 [3/8 1/8 1/4 1/4]=1. V2M1 [1/4 1/4 1/4 1/4]=1. V2M2 [1/2 1/4 1/4]=1. V3M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8]=1. V3M2 [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/4]=1. V4M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1. V4M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1. 5. Pitch: Flute E5-B5 in range, Oboe Bb3-G5, Clarinet runs E4-E5, Bassoon E2-B2. All valid.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [B4 E5 G5 B5 A5 G5] [B5 A5 G5 E5] ] [ [G4 F#4 E4 G4] [B4 A4 G4] ] [ [E4 G4 B4 E5 D5 B4 G4 E4] [E4 F#4 G4 A4 B4 C5 B4 G4] ] [ [E2 B2 E3 B2 E2 D2] [E2 B2 E3 B2 C3 B2] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/8 1/8] [3/8 1/8 1/4 1/4] ] [ [1/4 1/4 1/4 1/4] [1/2 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/4] ] [ [1/8 1/8 1/4 1/8 1/8 1/4] [1/8 1/8 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [92 98 105 115 105 98] [118 108 98 92] ] [ [82 80 78 82] [90 85 80] ] [ [74 76 78 80 78 76 74 72] [80 82 84 86 88 90 86 80] ] [ [98 92 95 92 98 92] [110 100 95 92 98 100] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] [ [] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [staccato] ] [ [accent] ] ] [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [accent] ] [ [accent] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 16:05:55 | Emozione: Sad ---
+{
+  "composer_diary": "1. Config: N=4 voices, 4 top-level blocks, BPM=72 fixed. Emotion: Sad but epic Star Wars elegy after battle (fallen hero). Key: C minor lament. Time 4/4. 2. Roles: V1 Flute mournful soaring line, V2 Oboe weeping legato melody, V3 Clarinet warm sustained harmony with slow arpeggios, V4 Bassoon lyrical tenor bass with chromatic descent. 3. Harmonic Plan: M1 = i (Cm) -> iv (Fm) sorrow; M2 = bII (Db, Neapolitan) -> V7 (G7) -> i suspended. Climax beat 1 M2 with high Ab. Chromatic passing tones. 4. Rhythm Check: V1M1 [3/8 1/8 1/4 1/4]=1. V1M2 [1/2 1/4 1/8 1/8]=1. V2M1 [1/2 1/4 1/4]=1. V2M2 [1/4 1/4 1/2]=1. V3M1 [1/4 1/8 1/8 1/2]=1. V3M2 [3/8 1/8 1/2]=1. V4M1 [1/2 1/4 1/4]=1. V4M2 [1/4 1/8 1/8 1/2]=1. 5. Pitch: Flute Eb5-Ab5, Oboe C4-Ab4, Clarinet G3-Eb5, Bassoon C2-Eb3. All valid.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [Eb5 D5 Eb5 G5] [Ab5 G5 F5 Eb5] ] [ [G4 F4 Eb4] [Db4 C4 Eb4] ] [ [C4 Eb4 G4 Bb4] [Ab4 G4 Eb4] ] [ [C2 G2 Ab2] [Db2 C2 B1 C2] ]",
+  "durations": "[ [3/8 1/8 1/4 1/4] [1/2 1/4 1/8 1/8] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ] [ [1/4 1/8 1/8 1/2] [3/8 1/8 1/2] ] [ [1/2 1/4 1/4] [1/4 1/8 1/8 1/2] ]",
+  "velocities": "[ [70 65 70 78] [85 75 68 62] ] [ [68 64 60] [70 66 60] ] [ [60 62 64 66] [72 65 58] ] [ [62 58 55] [65 60 55 50] ]",
+  "ties": "[ [0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [legato] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [accent] ] [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [legato] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+

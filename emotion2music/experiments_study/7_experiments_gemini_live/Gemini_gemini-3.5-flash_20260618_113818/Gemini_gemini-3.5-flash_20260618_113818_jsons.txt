@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-18 11:39:16 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Emotion & Theme: Relaxed but highly expressive, avant-garde 80s Japanese action anime scoring (Dragon Ball style) in a synth-pop framework. Key: A Dorian/Aeolian. BPM set to a cool, groovy 96. 2. Voice Roles: V1 (Clean Gt) plays a highly syncopated, chorus-heavy funk line. V2 (Overdrive Gt) delivers dirty, bluesy riffs. V3 (Picked Bass) drives a punchy, consistent 1/8th note pattern. V4 (Organ) executes percussive stabs and a blazing 1/16th run. 3. Math & Array Match Check: V1M1: 9 elements, sum=1. V1M2: 8 elements, sum=1. V2M1: 3 elements, sum=1. V2M2: 3 elements, sum=1. V3M1: 8 elements, sum=1. V3M2: 8 elements, sum=1. V4M1: 4 elements, sum=1. V4M2: 6 elements, sum=1. All arrays match perfectly. 4. Pitch Plan: All notes strictly within the specified ranges (V1: E2-D6, V2: E2-D6, V3: E1-G3, V4: C2-C7).",
+  "measures": "[ [[4 4] [96]] [[4 4] [96]] ]",
+  "pitches": "[ [A3 B3 C4 E4 G4 E4 D4 C4 A3] [F3 G3 A3 C4 E4 D4 C4 Bb3] ] [ [A3 C4 D4] [D#4 E4 A3] ] [ [A1 A1 E2 E2 G2 G2 A2 G2] [F1 F1 C2 C2 Bb1 Bb1 C2 E2] ] [ [ [E4 G4 C5] [D4 F#4 A4] [E4 G4 C5] [E4 G4 B4 D5] ] [ [A5] [B5] [C6] [D6] [F4 A4 C5 E5] [G4 Bb4 D5 F5] ] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/16 1/16 1/8 1/4] [1/16 1/16 1/8 1/4 1/8 1/16 1/16 1/4] ] [ [1/2 1/4 1/4] [1/4 1/2 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/4 1/8 1/8 1/2] [1/16 1/16 1/16 1/16 1/4 1/2] ]",
+  "velocities": "[ [70 65 65 75 70 65 65 70 80] [65 65 70 80 75 65 65 85] ] [ [80 85 90] [85 90 80] ] [ [75 70 75 70 75 70 80 70] [75 70 75 70 75 70 80 75] ] [ [80 75 80 85] [85 85 90 90 80 85] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [[]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[tenuto]] ] ] [ [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[tenuto]] ] [ [[]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] ] ] [ [ [ [[tenuto]] ] [ [[]] ] [ [[accent]] ] ] [ [ [[]] ] [ [[tenuto]] ] [ [[accent]] ] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[staccato]] ] ] [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[staccato]] ] ] ] [ [ [ [[accent]] ] [ [[]] ] [ [[]] ] [ [[tenuto]] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[tenuto]] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-18 11:39:57 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion: Excited. Style: Synth-pop with late 80s Japanese action anime scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: C minor/Dorian with chromatic alterations. 4. Validation: All voice ranges and duration sums are verified to match perfectly.",
+  "measures": "[ [[4 4] [96]] [[4 4] [96]] ]",
+  "pitches": "[ [G3 Bb3 C4 D4 F4 G4 F4 D4 C4 Bb3] [Bb3 C4 D4 F4 G4 Bb4 G4 F4] ] [ [[C3 G3] [Eb3 Bb3] [F3 C4]] [[G3 D4] [Ab3 Eb4] [Bb3 F4]] ] [ [C2 C2 Eb2 Eb2 F2 F2 G2 G2] [Ab2 Ab2 Bb2 Bb2 C3 C3 Bb2 G2] ] [ [[C4 Eb4 G4] [D4 F4 Bb4] [Eb4 G4 C5] [F4 A4 C5]] [C5 D5 Eb5 F5 [G4 C5 E5] [Ab4 C5 F5]] ]",
+  "durations": "[ [1/16 1/16 1/8 1/16 1/16 1/8 1/16 1/16 1/8 1/4] [1/8 1/16 1/16 1/4 1/8 1/16 1/16 1/4] ] [ [1/4 1/4 1/2] [1/2 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/4 1/8 1/8 1/2] [1/16 1/16 1/16 1/16 1/4 1/2] ]",
+  "velocities": "[ [80 75 85 75 70 80 75 70 85 90] [85 75 70 85 80 75 70 90] ] [ [90 85 95] [95 90 85] ] [ [85 80 85 80 85 80 90 85] [85 80 85 80 85 80 90 85] ] [ [85 80 85 90] [95 90 95 95 90 85] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[accent]] ] ] [ [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] ] ] [ [ [ [[accent]] ] [ [[tenuto]] ] [ [[accent]] ] ] [ [ [[accent]] ] [ [[tenuto]] ] [ [[accent]] ] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] ] [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] ] ] [ [ [ [[accent]] ] [ [[]] ] [ [[]] ] [ [[tenuto]] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[tenuto]] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-18 11:40:16 | Emozione: Excited ---
+{
+  "composer_diary": "1. Emotion: Excited. Style: Synth-pop with late 80s Japanese action anime scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: F# minor/Dorian with chromatic alterations. 4. Validation: All voice ranges and duration sums are verified to match perfectly.",
+  "measures": "[ [[4 4] [96]] [[4 4] [96]] ]",
+  "pitches": "[ [F#3 A3 B3 C#4 E4 F#4 E4 C#4 B3 A3] [A3 B3 C#4 E4 F#4 A4 F#4 E4] ] [ [[F#2 C#3] [A2 E3] [B2 F#3]] [[C#3 G#3] [D3 A3] [E3 B3]] ] [ [F#1 F#1 A1 A1 B1 B1 C#2 C#2] [D2 D2 C#2 C#2 B1 B1 A1 G#1] ] [ [[F#4 A4 C#5] [G#4 B4 D#5] [A4 C#5 E5] [B4 D5 F#5]] [[C#6] [D6] [C#6] [B5] [A4 C#5 F#5] [B4 D5 G#5]] ]",
+  "durations": "[ [1/16 1/16 1/8 1/16 1/16 1/8 1/16 1/16 1/8 1/4] [1/8 1/16 1/16 1/4 1/8 1/16 1/16 1/4] ] [ [1/4 1/4 1/2] [1/2 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/4 1/8 1/8 1/2] [1/16 1/16 1/16 1/16 1/4 1/2] ]",
+  "velocities": "[ [80 75 85 75 70 80 75 70 85 90] [85 75 70 85 80 75 70 90] ] [ [90 85 95] [95 90 85] ] [ [85 80 85 80 85 80 90 85] [85 80 85 80 85 80 90 85] ] [ [85 80 85 90] [95 90 95 95 90 85] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[accent]] ] ] [ [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] ] ] [ [ [ [[accent]] ] [ [[tenuto]] ] [ [[accent]] ] ] [ [ [[accent]] ] [ [[tenuto]] ] [ [[accent]] ] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] ] [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] ] ] [ [ [ [[accent]] ] [ [[]] ] [ [[]] ] [ [[tenuto]] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[tenuto]] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-18 11:40:35 | Emozione: Sad ---
+{
+  "composer_diary": "1. Emotion: Sad. Style: Synth-pop with tragic late 80s anime action scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: G minor/Phrygian for a dark, dramatic, and melancholic atmosphere. 4. Validation: All voice ranges and duration sums are verified to match perfectly.",
+  "measures": "[ [[4 4] [96]] [[4 4] [96]] ]",
+  "pitches": "[ [G3 Bb3 D4 Eb4 G4 Eb4 D4 Bb3 G3] [Ab3 C4 Eb4 G4 F4 Eb4 C4 Ab3] ] [ [G3 F#3 G3] [Ab3 G3 D3] ] [ [G1 G1 D2 D2 Eb2 Eb2 D2 C2] [Ab1 Ab1 Eb2 Eb2 F2 F2 D2 G1] ] [ [[G3 Bb3 D4] [Ab3 C4 Eb4] [G3 Bb3 D4] [F3 A3 C4 D4]] [[G5] [Ab5] [G5] [F5] [Eb4 G4 Bb4 D5] [D4 F#4 A4 C5]] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/16 1/16 1/8 1/4] [1/16 1/16 1/8 1/4 1/8 1/16 1/16 1/4] ] [ [1/2 1/4 1/4] [1/4 1/2 1/4] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8] ] [ [1/4 1/8 1/8 1/2] [1/16 1/16 1/16 1/16 1/4 1/2] ]",
+  "velocities": "[ [70 65 65 75 70 65 65 70 80] [65 65 70 80 75 65 65 85] ] [ [80 85 90] [85 90 80] ] [ [75 70 75 70 75 70 80 70] [75 70 75 70 75 70 80 75] ] [ [80 75 80 85] [85 85 90 90 80 85] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [[]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[]] ] [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[tenuto]] ] ] [ [ [[]] ] [ [[]] ] [ [[staccato]] ] [ [[tenuto]] ] [ [[]] ] [ [[]] ] [ [[]] ] [ [[accent]] ] ] ] [ [ [ [[tenuto]] ] [ [[]] ] [ [[accent]] ] ] [ [ [[]] ] [ [[tenuto]] ] [ [[accent]] ] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[staccato]] ] ] [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[staccato]] ] ] ] [ [ [ [[accent]] ] [ [[]] ] [ [[]] ] [ [[tenuto]] ] ] [ [ [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[staccato]] ] [ [[accent]] ] [ [[tenuto]] ] ] ] ]"
+}
+

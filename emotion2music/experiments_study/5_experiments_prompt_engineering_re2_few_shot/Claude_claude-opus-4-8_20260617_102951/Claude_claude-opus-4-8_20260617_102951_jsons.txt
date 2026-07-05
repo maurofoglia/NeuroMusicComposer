@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-17 10:30:49 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Config: N=3 voices, 3 top-level blocks, 2 measures. 2. Emotion: Relaxed yet fairytale Disney, triumphant climax in M2 then hopeful ending. Key: F Major, warm and gentle. BPM: 76 (relaxed, flowing). Time: 4/4. 3. Roles: V1 Piano (chords + arpeggiated sparkle), V2 Flute (airy melody with leaps), V3 Cello (warm bowed bassline). Harmony: M1 F -> Dm7 -> Gm7 -> C7. M2 F/A -> Bb -> C7 -> F (triumphant resolve). 4. Math Check: V1M1: 6 elem [1/4 1/8 1/8 1/4 1/8 1/8]=1. Pitches 6. MATCH. V1M2: 5 elem [3/8 1/8 1/4 1/8 1/8]=1. Pitches 5. MATCH. V2M1: 6 elem [1/8 1/8 1/4 1/8 1/8 1/4]=1. Pitches 6. MATCH. V2M2: 5 elem [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. V3M1: 4 elem [1/4 1/4 1/4 1/4]=1. Pitches 4. MATCH. V3M2: 4 elem [1/2 1/8 1/8 1/4]=1. Pitches 4. MATCH. 5. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. Cadence: F major triumphant then soft resolve.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [F3 A3 C4 D4 F4 A4] [A4 G4 Bb4 C5 A4] ] [ [C5 F5 A5 G5 Bb5 C6] [F6 E6 D6 E6 F6] ] [ [F2 A2 C3 Bb2] [A2 C3 F3 C2] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/8 1/8] [3/8 1/8 1/4 1/8 1/8] ] [ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/4 1/4] ] [ [1/4 1/4 1/4 1/4] [1/2 1/8 1/8 1/4] ]",
+  "velocities": "[ [60 62 64 66 68 70] [78 75 80 85 75] ] [ [65 68 72 70 74 78] [90 88 85 88 80] ] [ [58 60 62 64] [80 75 78 65] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] [ [legato] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:31:04 | Emozione: Excited ---
+{
+  "composer_diary": "1. Config: N=3 voices, 3 top-level blocks, 2 measures. BPM strictly 76. 2. Emotion: Excited, theatrical Disney-style, triumphant climax M2 then hopeful resolve. Key: D Major, bright and energetic. Time: 4/4. 3. Roles: V1 Piano (driving syncopated chords + sparkle runs), V2 Flute (fast airy leaping melody), V3 Cello (energetic bowed bassline rising to tenor). Harmony: M1 D -> Bm7 -> Em7 -> A7. M2 D/F# -> G -> A7 -> D (triumphant). Chromatic passing tones added. 4. Math Check: V1M1: 7 elem [1/8 1/8 1/4 1/8 1/16 1/16 1/4]=1. Pitches 7. MATCH. V1M2: 5 elem [3/8 1/8 1/8 1/8 1/4]=1. Pitches 5. MATCH. V2M1: 8 elem [1/8 1/8 1/8 1/8 1/16 1/16 1/8 1/4]=1. Pitches 8. MATCH. V2M2: 6 elem [1/8 1/8 1/4 1/8 1/8 1/4]=1. Pitches 6. MATCH. V3M1: 5 elem [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. V3M2: 4 elem [1/2 1/4 1/8 1/8]=1. Pitches 4. MATCH. 5. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. Cadence: D major triumphant.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [D4 F#4 A4 D5 C5 B4 A4] [F#5 E5 D5 C#5 D5] ] [ [A4 D5 F#5 A5 G5 F#5 E5 D5] [F#5 A5 G5 F#5 E5 D5] ] [ [D2 A2 D3 F#3 A3] [A2 D3 C#3 D3] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/16 1/16 1/4] [3/8 1/8 1/8 1/8 1/4] ] [ [1/8 1/8 1/8 1/8 1/16 1/16 1/8 1/4] [1/8 1/8 1/4 1/8 1/8 1/4] ] [ [1/4 1/8 1/8 1/4 1/4] [1/2 1/4 1/8 1/8] ]",
+  "velocities": "[ [75 78 80 85 82 80 78] [95 90 92 88 90] ] [ [80 85 88 92 90 88 85 82] [98 100 95 92 90 88] ] [ [70 72 75 78 80] [95 90 88 92] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:31:20 | Emozione: Excited ---
+{
+  "composer_diary": "1. Config: N=3 voices, 3 top-level blocks, 2 measures. BPM strictly 76. 2. Emotion: Excited, fairytale Disney theatrical, triumphant climax M2 beat 1, hopeful ending. Key: G Major bright. Time: 4/4. 3. Roles: V1 Piano (bold syncopated chords + ascending sparkle), V2 Flute (soaring fast leaping line), V3 Cello (driving bowed bass rising to tenor). Harmony: M1 G -> Em7 -> Am7 -> D7(with C# chromatic). M2 G/B -> C -> D7 -> G triumphant. 4. Math Check: V1M1: 7 elem [1/8 1/8 1/4 1/8 1/8 1/8 1/8]=1. Pitches 7. MATCH. V1M2: 5 elem [3/8 1/8 1/4 1/8 1/8]=1. Pitches 5. MATCH. V2M1: 8 elem [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4]=1. Pitches 8. MATCH. V2M2: 6 elem [1/4 1/8 1/8 1/8 1/8 1/4]=1. Pitches 6. MATCH. V3M1: 5 elem [1/4 1/4 1/8 1/8 1/4]=1. Pitches 5. MATCH. V3M2: 4 elem [1/2 1/8 1/8 1/4]=1. Pitches 4. MATCH. 5. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. Cadence: G major triumphant.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [G3 B3 D4 G4 F#4 E4 D4] [G4 B4 D5 C5 B4] ] [ [B4 C5 C#5 D5 G5 F#5 E5 D5] [G5 F#5 E5 D5 C5 B4] ] [ [G2 D3 B2 A2 D3] [G2 B2 C3 D3] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/8 1/8] [3/8 1/8 1/4 1/8 1/8] ] [ [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/4 1/4 1/8 1/8 1/4] [1/2 1/8 1/8 1/4] ]",
+  "velocities": "[ [78 80 84 88 85 82 80] [98 95 96 90 88] ] [ [82 84 86 90 95 92 88 85] [100 96 92 90 88 85] ] [ [72 75 76 78 80] [98 92 90 95] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:31:35 | Emozione: Sad ---
+{
+  "composer_diary": "1. Config: N=3 voices, 3 top-level blocks, 2 measures. BPM strictly 76. 2. Emotion: Sad but fairytale Disney-style, with a yearning rise toward a hopeful turn at the end. Key: E minor, melancholic. Time: 4/4. 3. Roles: V1 Piano (somber sustained chords + falling figures), V2 Flute (weeping legato melody with sighs), V3 Cello (slow expressive bowed bassline, tenor lament). Harmony: M1 Em -> Am7 -> B7(chromatic D#) -> Em. M2 C -> Am7 -> B7 -> Emaj (hopeful Picardy-like brightening). 4. Math Check: V1M1: 5 elem [1/4 1/8 1/8 1/4 1/4]=1. Pitches 5. MATCH. V1M2: 4 elem [3/8 1/8 1/4 1/4]=1. Pitches 4. MATCH. V2M1: 6 elem [1/4 1/8 1/8 1/8 1/8 1/4]=1. Pitches 6. MATCH. V2M2: 5 elem [3/8 1/8 1/4 1/8 1/8]=1. Pitches 5. MATCH. V3M1: 3 elem [1/2 1/4 1/4]=1. Pitches 3. MATCH. V3M2: 4 elem [1/4 1/4 1/4 1/4]=1. Pitches 4. MATCH. 5. Pitch Plan: V1 A0-C8 ok, V2 C4-C7 ok, V3 C2-A5 ok. Cadence: E major hopeful resolve.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [E3 G3 B3 A3 G3] [C4 E4 D#4 E4] ] [ [B4 A4 G4 F#4 E4 D#4] [E4 G4 F#4 G#4 B4] ] [ [E2 B2 G2] [C3 A2 B2 E3] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/4] [3/8 1/8 1/4 1/4] ] [ [1/4 1/8 1/8 1/8 1/8 1/4] [3/8 1/8 1/4 1/8 1/8] ] [ [1/2 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [55 52 50 48 46] [60 58 55 65] ] [ [58 55 52 50 48 46] [62 60 58 68 72] ] [ [50 48 45] [55 52 54 65] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [legato] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [accent] ] ] ]"
+}
+

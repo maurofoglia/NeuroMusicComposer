@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-13 12:39:40 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=2 voices. 2 top-level blocks. 2. Emotion: Relaxed - gentle folk-pop feel, warm major key. Key: G Major, Time 4/4. Soft, flowing, no harsh dissonance. 3. Roles: V1 Piano providing gentle syncopated chords and a soft melodic line; V2 Steel-String Guitar doing fingerpicking arpeggios. Harmony: M1 = Gmaj -> Cmaj9, M2 = Am7 -> D7sus -> G. 4. Rhythm Check: V1M1 [1/4 1/8 1/8 1/4 1/4]=1, V1M2 [1/8 1/8 1/4 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/8 1/8 1/4]=1, V2M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1. All sum to 1. 5. Pitch Plan: Piano A0-C8 fine, Guitar E2-C6 fine. Gentle climax at start of M2 then resolve to G. 6. Final cadence: D7 -> G major.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[G3 B3 D4] [G4] [B4] [E4 G4 C5] [D5]] [[E4 A4] [C5] [B4 D5] [G3 B3 D4 G4]] ] [ [G2 D3 B3 D4 G3 D3 B3] [E3 C4 G3 A3 E3 A3] ] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/2] ] [ [1/8 1/8 1/8 1/8 1/8 1/8 1/4] [1/8 1/8 1/8 1/8 1/4 1/4] ] ]",
+  "velocities": "[ [60 55 58 62 60] [58 60 62 65] ] [ [55 50 52 50 50 48 52] [54 50 52 50 55 58] ] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0] ] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:39:53 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=2 voices, 2 top-level blocks. BPM strictly 72. 2. Emotion: Excited - bright energetic D Major, lively 16th-note drive, syncopation. Time 4/4. 3. Roles: V1 Piano punchy syncopated chords and a leaping melodic motif; V2 Steel-String Guitar fast bright fingerpicking arpeggios. Harmony: M1 = D -> A/C# -> Bm, M2 = G -> A7 -> D. Climax near M2 start with high register. 4. Rhythm Check: V1M1 [1/8 1/8 1/16 1/16 1/8 1/4 1/8]=1, V1M2 [1/8 1/16 1/16 1/8 1/8 1/4 1/8]=1. V2M1 [1/16 1/16 1/16 1/16 1/8 1/8 1/8 1/4]=1, V2M2 [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/8]=1. All sum to 1. 5. Pitch Plan: Piano A0-C8, Guitar E2-C6, respected. 6. Final cadence A7 -> D major.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[D4 F#4 A4] [A4] [B4] [D5] [C#5 E5] [A4 C#5 E5] [F#5]] [[G5] [F#5] [E5] [A5] [G5] [F#4 A4 D5] [D5 F#5 A5]] ] [ [D3 A3 D4 F#4 A3 D4 F#4 D3] [B2 F#3 B3 D4 A3 D4 A3 F#3] ] ]",
+  "durations": "[ [1/8 1/8 1/16 1/16 1/8 1/4 1/8] [1/8 1/16 1/16 1/8 1/8 1/4 1/8] ] [ [1/16 1/16 1/16 1/16 1/8 1/8 1/8 1/4] [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/8] ] ]",
+  "velocities": "[ [85 80 78 80 85 88 95] [90 85 88 100 92 95 105] ] [ [78 72 75 75 76 74 72 80] [80 74 76 76 78 80 85 82] ] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [accent] ] [ [accent] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [accent] ] [ [] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:40:06 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=2 voices, 2 top-level blocks. BPM strictly 72. 2. Emotion: Excited - bright, driving E Major with energetic 16th-note momentum and syncopation. Time 4/4. 3. Roles: V1 Piano with punchy syncopated chords and leaping melodic line; V2 Steel-String Guitar with bright fingerpicked arpeggios. Harmony: M1 = E -> B/D# -> C#m, M2 = A -> B7 -> E. Climax at M2 start with high register. 4. Rhythm Check: V1M1 [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4]=1, V1M2 [1/4 1/8 1/8 1/16 1/16 1/8 1/4]=1. V2M1 [1/16 1/16 1/16 1/16 1/8 1/8 1/8 1/8 1/8]=1, V2M2 [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/8]=1. All sum to 1. 5. Pitch Plan: Piano A0-C8, Guitar E2-C6, respected. 6. Final cadence B7 -> E major.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[E4 G#4 B4] [B4] [G#4] [E5] [D#5] [F#5] [G#5] [B4 E5 G#5]] [[A5] [G#5] [F#5] [E5] [F#5] [D#5] [E4 G#4 B4 E5]] ] [ [E3 B3 E4 G#4 B3 E4 G#4 B3 E4] [A2 E3 A3 C#4 B3 E4 B2 F#3] ] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4] [1/4 1/8 1/8 1/16 1/16 1/8 1/4] ] [ [1/16 1/16 1/16 1/16 1/8 1/8 1/8 1/8 1/8] [1/16 1/16 1/16 1/16 1/8 1/8 1/4 1/8] ] ]",
+  "velocities": "[ [88 82 80 90 92 90 95 100] [100 92 90 95 90 96 108] ] [ [78 74 76 76 78 76 74 72 80] [82 76 78 78 80 82 88 84] ] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0] ] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [accent] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [accent] ] [ [] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-13 12:40:18 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=2 voices, 2 top-level blocks. BPM strictly 72. 2. Emotion: Sad - somber B minor, slow weeping melody, gentle descending lines, suspensions. Time 4/4. 3. Roles: V1 Piano expressive sustained chords and a mournful melodic line with syncopation; V2 Steel-String Guitar soft slow fingerpicking arpeggios. Harmony: M1 = Bm -> F#m/A -> G, M2 = Em -> F#7sus -> Bm. Subtle climax at M2 then resolve. 4. Rhythm Check: V1M1 [1/4 1/8 1/8 1/4 1/4]=1, V1M2 [1/8 1/8 1/4 1/4 1/4]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V2M2 [1/8 1/8 1/8 1/8 1/8 1/8 1/4]=1. All sum to 1. 5. Pitch Plan: Piano A0-C8, Guitar E2-C6, respected. 6. Final cadence F#7 -> Bm.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [[B3 D4 F#4] [F#4] [A4] [B4] [A4]] [[G4] [F#4] [E4 G4] [D4 F#4] [B3 D4 F#4]] ] [ [B2 F#3 B3 D4 A2 F#3] [E3 B3 E4 G4 F#3 C#4 B2] ] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/8 1/8 1/8 1/8 1/8 1/4] ] ]",
+  "velocities": "[ [55 50 52 58 54] [56 52 60 55 50] ] [ [50 46 48 48 50 46] [52 48 50 54 50 48 45] ] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0 0] ] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+

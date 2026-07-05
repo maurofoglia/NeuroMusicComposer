@@ -1,0 +1,12 @@
+[2026-06-15 14:49:42 | Emozione: Relaxed]
+1. Configuration: N=4 voices. Output requires 4 top-level blocks. 2. Emotion: Relaxed, Medieval castle ballad. Key: G major (modal feel). Time: 4/4. Steady, predictable, consonant. 3. Roles: V1 Kalimba gentle plucks, V2 Banjo staccato rolls, V3 Viola counter-melody, V4 Piano drone/chords. 4. Harmonic Plan: M1 = G major (I), M2 = D (V) -> G (I). Thirds and fifths emphasized. 5. Rhythm Check: V1M1 [1/8 x8]=1, V1M2 [1/8 x8]=1. V2M1 [1/16x8 1/8x4]... let me use [1/8 1/8 1/8 1/8 1/8 1/8 1/8 1/8]=1. V3M1 [1/4 1/4 1/4 1/4]=1. V4M1 [1/2 1/2]=1. All math correct. Pitches within bounds.
+
+[2026-06-15 14:50:01 | Emozione: Excited]
+1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Excited, festive medieval castle party. Key: D major (bright, modal). Time: 4/4, BPM=72. 3. Roles: V1 Kalimba lively repetitive plucks, V2 Banjo fast staccato 16th rolls, V3 Viola counter-melody, V4 Piano chords/bass. 4. Harmonic Plan: M1 = D (I), M2 = A (V) -> D (I). Thirds and fifths. 5. Rhythm Check: V1M1 [1/8x8]=1. V2M1 [1/16x16]=1. V3M1 [1/4 1/8 1/8 1/4 1/4]=1. V4M1 [1/4 1/4 1/4 1/4]=1. All correct. Pitches in bounds.
+
+[2026-06-15 14:50:22 | Emozione: Excited]
+1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Excited, festive medieval castle dance. Key: G major (bright Ionian/Mixolydian feel). Time: 4/4, BPM=72 strictly. 3. Roles: V1 Kalimba bright repetitive plucks, V2 Banjo fast 16th staccato rolls, V3 Viola flowing counter-melody, V4 Piano chordal bass on the beat. 4. Harmonic Plan: M1 = G (I), M2 = D (V) -> G (I). Thirds and fifths emphasized. 5. Rhythm Check: V1M1 [1/8x8]=1. V2M1 [1/16x16]=1. V3M1 [1/4 1/4 1/8 1/8 1/4]=1. V4M1 [1/4 1/4 1/4 1/4]=1. All sum to 1. Pitches in bounds.
+
+[2026-06-15 14:50:36 | Emozione: Sad]
+1. Configuration: N=4 voices. 4 top-level blocks. 2. Emotion: Sad, mournful medieval ballad. Key: E minor (Aeolian). Time: 4/4, BPM=72 strictly. 3. Roles: V1 Kalimba gentle slow plucks, V2 Banjo soft sparse picking, V3 Viola sorrowful counter-melody, V4 Piano low sustained chords. 4. Harmonic Plan: M1 = Em (i), M2 = B (v) -> Em (i). Minor thirds and fifths. 5. Rhythm Check: V1M1 [1/4 1/4 1/4 1/4]=1. V2M1 [1/8x8]=1. V3M1 [1/2 1/4 1/4]=1. V4M1 [1/2 1/2]=1. All sum to 1. Pitches in bounds.
+

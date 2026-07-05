@@ -1,0 +1,12 @@
+[2026-06-13 12:23:52 | Emozione: Relaxed]
+1. Configuration: N=2 voices, 2 measures each, 4/4 time. Emotion: Relaxed – warm major tonality, gentle syncopation. Key: C major. 2. Roles: Voice1 Piano – chordal arpeggios, legato flow. Voice2 Steel‑String Guitar – bright folk strum. 3. Rhythm Check: V1M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V1M2 [1/2 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V2M2 [1/2 1/2]=1. All sums correct. 4. Pitch Plan: All piano notes within A0‑C8, guitar notes within E2‑C6. 5. Cadence: Gentle half‑note resolution on measure 2, ending on C major.
+
+[2026-06-13 12:24:24 | Emozione: Excited]
+1. Configuration: N=2 voices, 2 measures each, time signature 4/4, BPM 72 (third value in measures). Emotion: Excited – bright major key, syncopated rhythms, dynamic accents. Key: C major. 2. Roles: Voice1 Piano – chordal arpeggios with accentuated downbeats. Voice2 Steel-String Guitar – folk pop strumming, bright fingerpicking. 3. Rhythm Check: V1M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V1M2 [1/2 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V2M2 [1/2 1/2]=1. All sums correct. 4. Pitch Plan: All piano notes within A0‑C8, all guitar notes within E2‑C6. 5. Cadence: Strong tonic resolution on the final half‑note of measure 2.
+
+[2026-06-13 12:24:58 | Emozione: Excited]
+1. Configuration: N=2 voices, 2 measures each, time signature 4/4, BPM 72 (third value in measures). Emotion: Excited – bright major tonality, syncopated rhythms, dynamic accents. Key: C major. 2. Roles: Voice1 Piano – expressive arpeggiated chords with accents. Voice2 Steel-String Guitar – lively folk strumming. 3. Rhythm Check: V1M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V1M2 [1/2 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V2M2 [1/2 1/2]=1. All sums correct. 4. Pitch Plan: All piano notes within A0‑C8, all guitar notes within E2‑C6. 5. Cadence: Strong tonic resolution on final half‑note of measure 2.
+
+[2026-06-13 12:25:25 | Emozione: Sad]
+1. Configuration: N=2 voices, 2 measures each, time signature 4/4, BPM 72 (third value in measures). Emotion: Sad – minor key, gentle descending motif, soft dynamics. Key: A minor. 2. Roles: Voice1 Piano – expressive arpeggiated chords with slight legato, Voice2 Steel-String Guitar – tender fingerpicking within folk pop style. 3. Rhythm Check: V1M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V1M2 [1/2 1/2]=1. V2M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, V2M2 [1/2 1/2]=1. All sums correct. 4. Pitch Plan: All piano notes within A0‑C8, all guitar notes within E2‑C6. 5. Cadence: Resolve to A minor tonic on final half‑note of measure 2.
+

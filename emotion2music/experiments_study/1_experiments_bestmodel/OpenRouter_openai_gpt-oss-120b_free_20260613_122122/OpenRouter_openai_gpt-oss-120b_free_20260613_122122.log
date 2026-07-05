@@ -1,0 +1,72 @@
+2026-06-13 12:21:22,699 [INFO] 📂 Setup cartella esperimento completato: experiments\OpenRouter_openai_gpt-oss-120b_free_20260613_122122
+2026-06-13 12:21:22,699 [INFO] [OpenRouter Backend] Inizializzazione... Modello selezionato: openai/gpt-oss-120b:free
+2026-06-13 12:21:23,151 [INFO] Client OpenRouter configurato.
+2026-06-13 12:21:23,151 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-13 12:21:23,152 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-13 12:22:54,834 [INFO] 📡 [OSC] Numero di voci impostato a: 1
+2026-06-13 12:22:55,327 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-13 12:22:58,762 [INFO] 📡 [OSC] Voice 2 impostata su: 26 Steel-Str. Gt
+2026-06-13 12:23:05,817 [INFO] 📡 [OSC] Voice 1 impostata su: 1 Piano 1
+2026-06-13 12:23:12,208 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-13 12:23:12,259 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-13 12:23:12,259 [INFO] Inizializzazione sessione di chat per OpenRouter con temperatura: 0.1
+2026-06-13 12:23:12,260 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-13 12:23:12,260 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:23:12,260 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:23:12,260 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:23:12,260 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:23:12,260 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:23:14,548 [INFO] HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:23:52,240 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=39.980s | Formato=JSON
+2026-06-13 12:23:52,240 [WARNING] ⚠️ [JSON ERROR] JSON nativo fallito. Tento la riparazione automatica...
+2026-06-13 12:23:52,248 [INFO] [TESI-METRIC] Task='Completed' | Backend='OpenRouter' | Modello='openai/gpt-oss-120b:free' | Temperatura=0.1 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=39.987s | Latenza_Per_Battuta=19.994s | Cicli_Refine=0
+2026-06-13 12:23:52,283 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-13 12:23:52,284 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_diaries.txt
+2026-06-13 12:23:52,285 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_jsons.txt
+2026-06-13 12:23:52,286 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:23:52,337 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:23:52,447 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:23:52,447 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:23:52,447 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:23:52,447 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:23:52,448 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:23:53,358 [INFO] HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:24:24,399 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=31.951s | Formato=JSON
+2026-06-13 12:24:24,399 [INFO] [TESI-METRIC] Task='Completed' | Backend='OpenRouter' | Modello='openai/gpt-oss-120b:free' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=31.952s | Latenza_Per_Battuta=15.976s | Cicli_Refine=0
+2026-06-13 12:24:24,434 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_diaries.txt
+2026-06-13 12:24:24,435 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_jsons.txt
+2026-06-13 12:24:24,436 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:24:24,487 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:24:24,594 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:24:24,595 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:24:24,595 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:24:24,595 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:24:24,595 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:24:26,229 [INFO] HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:24:58,090 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=33.495s | Formato=JSON
+2026-06-13 12:24:58,091 [INFO] [TESI-METRIC] Task='Completed' | Backend='OpenRouter' | Modello='openai/gpt-oss-120b:free' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=33.495s | Latenza_Per_Battuta=16.748s | Cicli_Refine=0
+2026-06-13 12:24:58,132 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_diaries.txt
+2026-06-13 12:24:58,133 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_jsons.txt
+2026-06-13 12:24:58,134 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:24:58,187 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:24:58,293 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:24:58,294 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:24:58,294 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:24:58,294 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:24:58,295 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:24:59,613 [INFO] HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:25:25,734 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=27.439s | Formato=JSON
+2026-06-13 12:25:25,735 [INFO] [TESI-METRIC] Task='Completed' | Backend='OpenRouter' | Modello='openai/gpt-oss-120b:free' | Temperatura=0.1 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=27.440s | Latenza_Per_Battuta=13.720s | Cicli_Refine=0
+2026-06-13 12:25:25,780 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_diaries.txt
+2026-06-13 12:25:25,781 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: OpenRouter_openai_gpt-oss-120b_free_20260613_122122_jsons.txt
+2026-06-13 12:25:25,782 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:25:25,834 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:25:25,942 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-13 12:25:27,944 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\OpenRouter_openai_gpt-oss-120b_free_20260613_122122\OpenRouter_openai_gpt-oss-120b_free_20260613_122122_score.xml
+2026-06-13 12:26:54,137 [INFO] 
+Chiusura del server.

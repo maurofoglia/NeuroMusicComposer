@@ -1,0 +1,12 @@
+[2026-06-18 11:39:16 | Emozione: Relaxed]
+1. Emotion & Theme: Relaxed but highly expressive, avant-garde 80s Japanese action anime scoring (Dragon Ball style) in a synth-pop framework. Key: A Dorian/Aeolian. BPM set to a cool, groovy 96. 2. Voice Roles: V1 (Clean Gt) plays a highly syncopated, chorus-heavy funk line. V2 (Overdrive Gt) delivers dirty, bluesy riffs. V3 (Picked Bass) drives a punchy, consistent 1/8th note pattern. V4 (Organ) executes percussive stabs and a blazing 1/16th run. 3. Math & Array Match Check: V1M1: 9 elements, sum=1. V1M2: 8 elements, sum=1. V2M1: 3 elements, sum=1. V2M2: 3 elements, sum=1. V3M1: 8 elements, sum=1. V3M2: 8 elements, sum=1. V4M1: 4 elements, sum=1. V4M2: 6 elements, sum=1. All arrays match perfectly. 4. Pitch Plan: All notes strictly within the specified ranges (V1: E2-D6, V2: E2-D6, V3: E1-G3, V4: C2-C7).
+
+[2026-06-18 11:39:57 | Emozione: Excited]
+1. Emotion: Excited. Style: Synth-pop with late 80s Japanese action anime scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: C minor/Dorian with chromatic alterations. 4. Validation: All voice ranges and duration sums are verified to match perfectly.
+
+[2026-06-18 11:40:16 | Emozione: Excited]
+1. Emotion: Excited. Style: Synth-pop with late 80s Japanese action anime scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: F# minor/Dorian with chromatic alterations. 4. Validation: All voice ranges and duration sums are verified to match perfectly.
+
+[2026-06-18 11:40:35 | Emozione: Sad]
+1. Emotion: Sad. Style: Synth-pop with tragic late 80s anime action scoring elements. 2. Configuration: 4 voices at 96 BPM. 3. Harmonic Plan: G minor/Phrygian for a dark, dramatic, and melancholic atmosphere. 4. Validation: All voice ranges and duration sums are verified to match perfectly.
+

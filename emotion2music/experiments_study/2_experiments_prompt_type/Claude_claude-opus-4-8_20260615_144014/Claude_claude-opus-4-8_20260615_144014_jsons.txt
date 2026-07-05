@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 14:40:59 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Jazz Gt, Acoustic Bass). 2. Emotion: Relaxed, summery bossa-nova jazz, sea vibes. Key: Fmaj7 lydian/bossa. Time 4/4. 3. Roles: V1 Piano = syncopated melody with rich chords, V2 Jazz Gt = lush extended chords (maj9, m9, 13), V3 Bass = bossa/walking line. 4. Harmonic Plan: M1 = Fmaj9 -> D7b9 (sec dom), M2 = Gm9 -> C13 -> Fmaj9. 5. Rhythm Check: V1M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1; V1M2 [3/8 1/8 1/4 1/4]=1. V2M1 [1/2 1/4 1/4]=1; V2M2 [1/4 1/4 1/2]=1. V3M1 [1/4 1/4 1/4 1/4]=1; V3M2 [1/4 1/4 1/4 1/4]=1. 6. Pitch Plan: Piano A0-C8 ok, Gt E2-C6 ok, Bass E1-G3 ok. Climax syncopation in M2 piano.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 C5 F5 E5 G5 A5] [C6 A5 G5 F5] ] [ [F3 A3 C4 E4] [Bb3 D4 F4] [G3 Bb3 D4] [E3 G3 Bb3 C4]] [ [F1 A1 C2 D2] [G1 Bb1 C2 E2] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/4] [3/8 1/8 1/4 1/4] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [70 72 80 75 78 85] [90 80 75 65] ] [ [65 60 62 70] [68 64 60] ] [ [75 70 72 70] [78 72 70 65] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:41:15 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Jazz Gt, Acoustic Bass). BPM strictly 72. 2. Emotion: Excited, energetic summer jazz-samba, danceable sea vibes. Key: Dmaj7/lydian with avant-garde extensions. Time 4/4. 3. Roles: V1 Piano = bright syncopated melody with stabs and leaps, V2 Jazz Gt = lush extended chords (maj9, 13, alt), V3 Bass = driving syncopated samba bass. 4. Harmonic Plan: M1 = Dmaj9 -> B7#9 (sec dom), M2 = Em9 -> A13 -> Dmaj9. 5. Rhythm Check: V1M1 [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4]=1; V1M2 [1/4 1/8 1/8 1/8 1/8 1/4]=1. V2M1 [1/4 1/8 1/8 1/2]=1; V2M2 [3/8 1/8 1/2]=1. V3M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1; V3M2 [1/4 1/8 1/8 1/4 1/4]=1. 6. Pitch Plan: Piano A0-C8 ok, Gt E2-C6 ok, Bass E1-G3 ok. Climax leap to A5 in M2 piano.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [D5 F#5 A5 E5 D5 F#5 G5 A5] [B5 A5 F#5 E5 D5 A5] ] [ [F#4 A4 C5 E5] [G4 B4 D5] ] [ [D2 A2 D3 F#2 A2 D3] [E2 B2 A2 C#3 D3] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/8 1/8 1/4] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/4 1/8 1/8 1/2] [3/8 1/8 1/2] ] [ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/4 1/4] ]",
+  "velocities": "[ [85 80 82 78 80 84 88 95] [100 90 85 80 78 92] ] [ [75 70 72 80] [78 74 70] ] [ [88 82 85 80 84 86] [90 84 82 80 78] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [staccato] ] [ [accent] ] ] [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [staccato] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:41:32 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Jazz Gt, Acoustic Bass). BPM strictly 72. 2. Emotion: Excited, vibrant summer Latin-jazz, danceable ocean breeze feel. Key: Amaj7 lydian with avant-garde altered tensions. Time 4/4. 3. Roles: V1 Piano = energetic syncopated melodic stabs with unexpected leaps, V2 Jazz Gt = complex extended montuno chords (maj9, 13, 7alt), V3 Bass = driving syncopated tumbao-style line. 4. Harmonic Plan: M1 = Amaj9 -> F#7#9 (sec dom), M2 = Bm9 -> E13 -> Amaj9. 5. Rhythm Check: V1M1 [1/16 1/16 1/8 1/8 1/8 1/8 1/8 1/4]=1; V1M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1. V2M1 [1/8 1/8 1/4 1/2]=1; V2M2 [1/4 1/4 1/4 1/4]=1. V3M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1; V3M2 [1/8 1/8 1/4 1/8 1/8 1/4]=1. 6. Pitch Plan: Piano A0-C8 ok, Gt E2-C6 ok, Bass E1-G3 ok. Climax leap to B5 in M2 piano.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 C#5 E5 A5 G#5 E5 F#5 C#5] [D5 E5 F#5 A5 B5 A5] ] [ [E4 G#4 B4 D5] [F#4 A4 C#5 E5] ] [ [A1 E2 A2 C#2 E2 A1] [B1 F#2 E2 G#2 B2 E2] ]",
+  "durations": "[ [1/16 1/16 1/8 1/8 1/8 1/8 1/8 1/4] [1/8 1/8 1/8 1/8 1/4 1/4] ] [ [1/8 1/8 1/4 1/2] [1/4 1/4 1/4 1/4] ] [ [1/8 1/8 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/8 1/8 1/4] ]",
+  "velocities": "[ [85 82 88 95 90 84 86 92] [88 90 92 100 98 85] ] [ [75 72 74 80] [78 76 74 70] ] [ [90 84 86 82 88 85] [92 86 84 82 80 78] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [staccato] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [] ] [ [accent] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [accent] ] [ [staccato] ] ] [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [staccato] ] [ [staccato] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:41:46 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Jazz Gt, Acoustic Bass). BPM strictly 72. 2. Emotion: Sad but danceable bittersweet summer jazz-bossa, nostalgic sea memories. Key: C# minor with avant-garde extended/altered harmonies, lush melancholy. Time 4/4. 3. Roles: V1 Piano = weeping syncopated melody with expressive leaps, V2 Jazz Gt = dark minor 9th and altered chords, V3 Bass = smooth melancholic bossa walking line. 4. Harmonic Plan: M1 = C#m9 -> G#7b9 (sec dom), M2 = F#m9 -> B13 -> C#m(maj7). 5. Rhythm Check: V1M1 [1/8 1/8 1/4 1/16 1/16 1/8 1/4]=1; V1M2 [1/4 1/8 1/8 1/2]=1. V2M1 [1/2 1/4 1/4]=1; V2M2 [3/8 1/8 1/2]=1. V3M1 [1/4 1/8 1/8 1/4 1/4]=1; V3M2 [1/8 1/8 1/4 1/4 1/4]=1. 6. Pitch Plan: Piano A0-C8 ok, Gt E2-C6 ok, Bass E1-G3 ok. Climax sigh leap to G#5 M2 piano.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [C#5 E5 G#5 F#5 E5 D#5 C#5] [B4 C#5 D#5 G#5] ] [ [E4 G#4 B4 D#5] [F#4 A4 C#5] ] [ [C#2 G#2 B2 C#3 E2] [F#2 C#3 B2 D#3 C#3] ]",
+  "durations": "[ [1/8 1/8 1/4 1/16 1/16 1/8 1/4] [1/4 1/8 1/8 1/2] ] [ [1/2 1/4 1/4] [3/8 1/8 1/2] ] [ [1/4 1/8 1/8 1/4 1/4] [1/8 1/8 1/4 1/4 1/4] ]",
+  "velocities": "[ [60 58 65 55 52 50 48] [70 62 58 75] ] [ [55 50 52 58] [60 54 50] ] [ [62 56 58 60 55] [65 58 56 54 50] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0 0 0] [0 0 0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [] ] [ [tenuto] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+

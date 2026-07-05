@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-15 14:54:19 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba). 2. Emotion: Relaxed-yet-horror blues for a dark scene. Key: C minor blues with tritones, flat-5, and chromatic creeping. Slow 4/4, eerie syncopation. 3. Roles: V1 Trumpet=muted eerie stabs/wails; V2 Trombone=sliding low menace; V3 French Horn=soaring dread melody; V4 Tuba=steady ominous bass pedal. 4. Rhythm Check: V1M1 [1/8 1/8 1/4 1/16 1/16 1/8 1/4]=1; V1M2 [1/4 1/8 1/8 1/2]=1. V2M1 [1/2 1/4 1/8 1/8]=1; V2M2 [1/4 1/4 1/2]=1. V3M1 [3/8 1/8 1/4 1/4]=1; V3M2 [1/2 1/4 1/8 1/8]=1. V4M1 [1/4 1/4 1/4 1/4]=1; V4M2 [1/2 1/4 1/4]=1. All sum to 1. 5. Pitch Plan: Trumpet E3-C6 ok; Trombone E2-F4 ok; Horn F2-F5 ok; Tuba D1-F3 ok. Climax M2 beat1 Horn high Eb5. Final cadence: dark unresolved tritone over C pedal.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [G4 Gb4 C5 Eb5 D5 Gb4 G4] [Ab4 G4 Gb4 C4] ] [ [C3 B2 Bb2 A2] [Gb2 G2 C3] ] [ [Eb4 D4 Gb4 G4] [Eb5 D5 C5 B4] ] [ [C2 C2 Gb2 G1] [Ab1 Gb2 C2] ]",
+  "durations": "[ [1/8 1/8 1/4 1/16 1/16 1/8 1/4] [1/4 1/8 1/8 1/2] ] [ [1/2 1/4 1/8 1/8] [1/4 1/4 1/2] ] [ [3/8 1/8 1/4 1/4] [1/2 1/4 1/8 1/8] ] [ [1/4 1/4 1/4 1/4] [1/2 1/4 1/4] ]",
+  "velocities": "[ [60 55 70 80 75 50 55] [65 60 55 70] ] [ [55 50 50 55] [60 50 65] ] [ [55 50 60 65] [95 85 70 60] ] [ [70 65 60 75] [80 60 70] ]",
+  "ties": "[ [0 0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [] ] [ [tenuto] ] [ [staccato] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] ] [ [ [legato] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [legato] ] ] [ [ [accent] ] [ [tenuto] ] [ [] ] [ [] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:54:37 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba), BPM fixed at 72. 2. Emotion: Excited yet horror-blues for a dark scene. Key: E minor blues with #9, b5, chromatic stabs and frantic syncopation. 3. Roles: V1 Trumpet=frantic high blues stabs/wails; V2 Trombone=growling sliding bass impacts; V3 French Horn=soaring dread melody climbing to climax; V4 Tuba=ominous driving bass pedal. 4. Rhythm Check: V1M1 [1/16 1/16 1/8 1/8 1/16 1/16 1/4 1/4]=1; V1M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1. V2M1 [1/4 1/8 1/8 1/2]=1; V2M2 [1/2 1/4 1/4]=1. V3M1 [1/4 1/4 1/8 1/8 1/4]=1; V3M2 [1/2 1/8 1/8 1/4]=1. V4M1 [1/4 1/4 1/4 1/4]=1; V4M2 [1/4 1/4 1/2]=1. All sum to 1. 5. Pitch Plan: Trumpet E3-C6 ok; Trombone E2-F4 ok; Horn F2-F5 ok; Tuba D1-F3 ok. Climax M2 beat1 Horn E5. Dark unresolved b5 ending over E pedal.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [E4 G4 Bb4 B4 E5 G5 Bb5 A5] [G5 E5 Bb4 B4 G4 E4] ] [ [E3 Bb2 B2 E2] [Bb2 B2 E2] ] [ [B3 D4 G4 Bb4 B4] [E5 D5 Bb4 G4] ] [ [E2 E2 Bb1 B1] [E2 Bb1 E1] ]",
+  "durations": "[ [1/16 1/16 1/8 1/8 1/16 1/16 1/4 1/4] [1/8 1/8 1/8 1/8 1/4 1/4] ] [ [1/4 1/8 1/8 1/2] [1/2 1/4 1/4] ] [ [1/4 1/4 1/8 1/8 1/4] [1/2 1/8 1/8 1/4] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/2] ]",
+  "velocities": "[ [80 75 85 90 100 95 105 90] [95 85 80 75 70 65] ] [ [70 65 70 75] [70 75 80] ] [ [65 70 75 80 85] [110 95 80 70] ] [ [85 80 75 90] [85 75 80] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0] [0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [staccato] ] [ [staccato] ] [ [accent] ] [ [] ] [ [accent] ] [ [staccato] ] [ [accent] ] [ [] ] ] [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [legato] ] [ [tenuto] ] ] [ [ [legato] ] [ [] ] [ [accent] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [legato] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:54:53 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba), BPM locked at 72. 2. Emotion: Excited horror-blues for a dark scene. Key: A minor blues with b5 (Eb), #9, tritone clusters, jagged syncopation. 3. Roles: V1 Trumpet=manic high blues wails and stabs; V2 Trombone=growling glissando bass impacts; V3 French Horn=eerie soaring line peaking at climax M2 beat1; V4 Tuba=relentless driving bass pedal. 4. Rhythm Check: V1M1 [1/8 1/16 1/16 1/8 1/8 1/16 1/16 1/8 1/8]=1; V1M2 [1/4 1/8 1/8 1/8 1/8 1/4]=1. V2M1 [1/4 1/4 1/8 1/8 1/4]=1; V2M2 [1/2 1/4 1/4]=1. V3M1 [3/8 1/8 1/4 1/4]=1; V3M2 [1/2 1/8 1/8 1/8 1/8]=1. V4M1 [1/4 1/4 1/4 1/4]=1; V4M2 [1/4 1/4 1/4 1/4]=1. All sum to 1. 5. Pitch Plan: Trumpet E3-C6 ok; Trombone E2-F4 ok; Horn F2-F5 ok; Tuba D1-F3 ok. Climax Horn E5 in M2. Ending on unresolved tritone over A pedal.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 C5 Eb5 E5 A5 C6 Bb5 G5 E5] [A5 G5 E5 Eb5 C5 A4] ] [ [A2 Eb3 E3 D3 A2] [Eb2 E2 A2] ] [ [C4 Eb4 A4 C5 Eb5] [E5 D5 C5 A4 G4] ] [ [A1 A1 Eb2 E1] [Eb2 E1 A1 D1] ]",
+  "durations": "[ [1/8 1/16 1/16 1/8 1/8 1/16 1/16 1/8 1/8] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/4 1/4 1/8 1/8 1/4] [1/2 1/4 1/4] ] [ [3/8 1/8 1/4 1/4] [1/2 1/8 1/8 1/8 1/8] ] [ [1/4 1/4 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [85 80 90 100 105 110 95 90 85] [100 90 85 80 75 70] ] [ [75 70 75 70 80] [70 80 85] ] [ [65 70 80 85 95] [110 100 85 75 70] ] [ [90 85 80 95] [85 90 80 75] ]",
+  "ties": "[ [0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0] ] [ [0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [accent] ] [ [accent] ] [ [accent] ] [ [staccato] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [staccato] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [legato] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [legato] ] [ [] ] [ [accent] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [legato] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [accent] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [accent] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-15 14:55:09 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=4 voices (Trumpet, Trombone, French Horn, Tuba), BPM locked at 72. 2. Emotion: Sad horror-blues for a dark scene. Key: D minor blues with b5 (Ab), b9, minor-major7 clusters, weeping bends and slow syncopation. 3. Roles: V1 Trumpet=muted mournful blues wails with falling phrases; V2 Trombone=heavy descending slides; V3 French Horn=lamenting soaring line climaxing at M2 beat1; V4 Tuba=slow funereal bass pedal. 4. Rhythm Check: V1M1 [1/4 1/8 1/8 1/8 1/8 1/4]=1; V1M2 [1/8 1/8 1/4 1/2]=1. V2M1 [1/2 1/4 1/4]=1; V2M2 [1/4 1/4 1/2]=1. V3M1 [3/8 1/8 1/2]=1; V3M2 [1/2 1/4 1/8 1/8]=1. V4M1 [1/4 1/4 1/4 1/4]=1; V4M2 [1/2 1/2]=1. All sum to 1. 5. Pitch Plan: Trumpet E3-C6 ok; Trombone E2-F4 ok; Horn F2-F5 ok; Tuba D1-F3 ok. Climax Horn D5 in M2. Ending unresolved minor-major over D pedal.",
+  "measures": "[ [[4 4] [72]] [[4 4] [72]] ]",
+  "pitches": "[ [A4 F5 E5 C5 Ab4 A4] [D5 C5 Ab4 F4] ] [ [D3 Ab2 A2 F2] [Ab2 A2 D2] ] [ [F4 Ab4 A4 C5] [D5 C5 Ab4 A4] ] [ [D2 D2 Ab1 A1] [D2 A1] ]",
+  "durations": "[ [1/4 1/8 1/8 1/8 1/8 1/4] [1/8 1/8 1/4 1/2] ] [ [1/2 1/4 1/4] [1/4 1/4 1/2] ] [ [3/8 1/8 1/2] [1/2 1/4 1/8 1/8] ] [ [1/4 1/4 1/4 1/4] [1/2 1/2] ]",
+  "velocities": "[ [55 65 60 50 45 50] [70 60 50 45] ] [ [50 45 45 50] [45 50 55] ] [ [50 45 55 60] [85 70 55 50] ] [ [60 55 50 65] [60 50] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0] ] [ [0 0 0] [0 0 0] ] [ [0 0 0] [0 0 0 0] ] [ [0 0 0 0] [0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [accent] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [legato] ] [ [] ] [ [legato] ] ] [ [ [legato] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [legato] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] ] ] ]"
+}
+

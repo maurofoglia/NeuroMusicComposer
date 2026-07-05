@@ -1,0 +1,84 @@
+2026-06-15 23:46:30,113 [INFO] 📂 Setup cartella esperimento completato: experiments\Claude_claude-opus-4-8_20260615_234630
+2026-06-15 23:46:30,113 [INFO] [Claude Backend] Inizializzazione... Modello selezionato: claude-opus-4-8
+2026-06-15 23:46:30,366 [INFO] Client Claude configurato.
+2026-06-15 23:46:30,366 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-15 23:46:30,367 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-15 23:46:30,601 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-15 23:46:30,649 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-15 23:46:31,082 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-15 23:47:27,393 [INFO] [Ricevuto da Max] Istruzioni testuali aggiornate: Star Wars The Mandalorian and Grogu
+2026-06-15 23:47:52,345 [INFO] 📡 [OSC] Numero di voci impostato a: 3
+2026-06-15 23:47:56,456 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-15 23:48:00,623 [INFO] 📡 [OSC] Numero di voci impostato a: 4
+2026-06-15 23:48:00,625 [INFO] 📡 [OSC] Voice 1 impostata su: 74 Flute
+2026-06-15 23:48:00,625 [INFO] 📡 [OSC] Voice 2 impostata su: 69 Oboe
+2026-06-15 23:48:00,626 [INFO] 📡 [OSC] Voice 3 impostata su: 72 Clarinet
+2026-06-15 23:48:00,627 [INFO] 📡 [OSC] Voice 4 impostata su: 71 Bassoon
+2026-06-15 23:48:07,804 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-15 23:48:07,855 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-15 23:48:07,856 [INFO] Inizializzazione sessione di chat per Claude con temperatura: 0.12992126047611238
+2026-06-15 23:48:07,856 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-15 23:48:07,856 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:48:07,856 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:48:07,856 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-15 23:48:07,856 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-15 23:48:07,856 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-15 23:48:07,857 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-15 23:48:07,857 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:48:23,694 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:48:23,716 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=15.860s | Formato=JSON
+2026-06-15 23:48:23,717 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=15.860s | Latenza_Per_Battuta=7.930s | Cicli_Refine=0
+2026-06-15 23:48:23,746 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-15 23:48:23,747 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_234630_diaries.txt
+2026-06-15 23:48:23,747 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_234630_jsons.txt
+2026-06-15 23:48:23,749 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:48:23,801 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-15 23:48:23,907 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:48:23,908 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:48:23,908 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-15 23:48:23,908 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-15 23:48:23,908 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-15 23:48:23,909 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-15 23:48:23,909 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:48:40,672 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:48:40,673 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=16.763s | Formato=JSON
+2026-06-15 23:48:40,673 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=16.764s | Latenza_Per_Battuta=8.382s | Cicli_Refine=0
+2026-06-15 23:48:40,695 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_234630_diaries.txt
+2026-06-15 23:48:40,696 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_234630_jsons.txt
+2026-06-15 23:48:40,696 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:48:40,747 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-15 23:48:40,855 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:48:40,856 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:48:40,856 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-15 23:48:40,856 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-15 23:48:40,856 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-15 23:48:40,856 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-15 23:48:40,856 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:48:56,511 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:48:56,512 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=15.656s | Formato=JSON
+2026-06-15 23:48:56,512 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=15.656s | Latenza_Per_Battuta=7.828s | Cicli_Refine=0
+2026-06-15 23:48:56,534 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_234630_diaries.txt
+2026-06-15 23:48:56,534 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_234630_jsons.txt
+2026-06-15 23:48:56,535 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:48:56,586 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-15 23:48:56,697 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:48:56,697 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:48:56,697 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-15 23:48:56,697 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-15 23:48:56,697 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-15 23:48:56,697 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-15 23:48:56,697 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:49:09,911 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:49:09,912 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=13.215s | Formato=JSON
+2026-06-15 23:49:09,912 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=13.215s | Latenza_Per_Battuta=6.607s | Cicli_Refine=0
+2026-06-15 23:49:09,941 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_234630_diaries.txt
+2026-06-15 23:49:09,942 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_234630_jsons.txt
+2026-06-15 23:49:09,942 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:49:09,993 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-15 23:49:10,104 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-15 23:49:12,106 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Claude_claude-opus-4-8_20260615_234630\Claude_claude-opus-4-8_20260615_234630_score.xml

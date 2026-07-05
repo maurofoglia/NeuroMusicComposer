@@ -1,0 +1,44 @@
+// --- JSON Generato il: 2026-06-17 10:26:04 | Emozione: Relaxed ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Flute, Cello). Emotion: Relaxed, Disney fairytale with triumphant climax and hopeful ending. BPM: 76, gentle flowing. Key: F Major (warm, hopeful). 2. Harmonic Plan: M1 = I - vi - ii7 - V (Fmaj-Dmin-Gmin7-C7), M2 climax = IV - V7 - I (Bb-C7-F) with triumphant resolution. Motif: rising arpeggio gesture in flute, developed. 3. Roles: V1 Piano arpeggiated chords + syncopation, V2 Flute airy soaring melody with leaps, V3 Cello expressive bowed bassline. 4. Math Check: V1M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1, 6 elem MATCH. V1M2 [1/4 1/8 1/8 1/4 1/4]=1, 5 elem MATCH. V2M1 [1/4 1/8 1/8 1/8 1/8 1/4]=1, 6 elem MATCH. V2M2 [1/8 1/8 1/4 1/4 1/4]=1, 5 elem MATCH. V3M1 [1/2 1/4 1/4]=1, 3 elem MATCH. V3M2 [1/4 1/4 1/4 1/4]=1, 4 elem MATCH. 5. Pitch Plan: Piano A0-C8, Flute C4-C7, Cello C2-A5. All within bounds. Final cadence on F major, hopeful.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [F3 A3 C4 D4 F4 A4] [Bb3 D4 C4 E4 F4] ] [ [C5 F5 A5 G5 F5 A5] [Bb5 A5 G5 C6 A5] ] [ [F2 C3 A2] [Bb2 C3 F2 C3] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/4 1/4] ] [ [1/4 1/8 1/8 1/8 1/8 1/4] [1/8 1/8 1/4 1/4 1/4] ] [ [1/2 1/4 1/4] [1/4 1/4 1/4 1/4] ]",
+  "velocities": "[ [60 62 65 63 60 68] [75 80 78 85 90] ] [ [65 70 78 72 68 80] [88 85 82 100 95] ] [ [55 58 60] [80 78 85 75] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0] [0 0 0 0] ]",
+  "articulations": "[ [ [ [] ] [ [] ] [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [tenuto] ] [ [accent] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [legato] ] ] [ [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [] ] [ [] ] ] [ [ [accent] ] [ [] ] [ [accent] ] [ [tenuto] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:26:20 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Flute, Cello). Emotion: Excited, Disney fairytale with triumphant climax and hopeful ending. BPM locked at 76. Key: D Major (bright, exciting). 2. Harmonic Plan: M1 = I - V/vi - vi - IV (Dmaj-B7-Bmin-Gmaj) building energy, M2 climax = G-A7-D triumphant, hopeful resolution. Motif: rapid rising flute figure. 3. Roles: V1 Piano driving syncopated chords, V2 Flute fast airy soaring with leaps, V3 Cello energetic bowed bassline. 4. Math Check: V1M1 [1/8 1/8 1/8 1/8 1/4 1/4]=1, 6 elem MATCH. V1M2 [1/4 1/8 1/8 1/8 1/8 1/4]=1, 6 elem MATCH. V2M1 [1/16 1/16 1/8 1/8 1/8 1/8 1/8 1/4]=1, 8 elem MATCH. V2M2 [1/8 1/8 1/8 1/8 1/4 1/4]=1, 6 elem MATCH. V3M1 [1/4 1/4 1/8 1/8 1/4]=1, 5 elem MATCH. V3M2 [1/4 1/4 1/2]=1, 3 elem MATCH. 5. Pitch Plan: Piano A0-C8, Flute C4-C7, Cello C2-A5. All within bounds. Final cadence on D major, hopeful and triumphant.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [D3 F#3 A3 D4 F#4 A4] [G3 B3 D4 G4 A4 D5] ] [ [D5 E5 F#5 A5 B5 A5 F#5 D6] [G5 A5 B5 C#6 D6 A5] ] [ [D2 A2 D3 C#3 B2] [G2 A2 D2] ]",
+  "durations": "[ [1/8 1/8 1/8 1/8 1/4 1/4] [1/4 1/8 1/8 1/8 1/8 1/4] ] [ [1/16 1/16 1/8 1/8 1/8 1/8 1/8 1/4] [1/8 1/8 1/8 1/8 1/4 1/4] ] [ [1/4 1/4 1/8 1/8 1/4] [1/4 1/4 1/2] ]",
+  "velocities": "[ [80 82 85 88 90 92] [95 90 92 100 105 110] ] [ [85 88 92 98 100 95 90 105] [100 102 105 110 115 108] ] [ [78 80 82 85 88] [95 98 105] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0 0 0 0] [0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [] ] [ [] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [] ] [ [staccato] ] [ [staccato] ] [ [tenuto] ] ] [ [ [accent] ] [ [accent] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:26:36 | Emozione: Excited ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Flute, Cello). Emotion: Excited, Disney fairytale with triumphant climax and hopeful ending. BPM locked at 76. Key: C Major bright and energetic. 2. Harmonic Plan: M1 = I - V7/IV - IV - ii7 (Cmaj-C7-Fmaj-Dmin7) energetic ascent, M2 climax = G7 - C with passing chromaticism, triumphant hopeful end. Motif: bursting upward flute scale. 3. Roles: V1 Piano syncopated full chords, V2 Flute fast airy leaps, V3 Cello driving bowed line. 4. Math Check: V1M1 [1/8 1/8 1/4 1/8 1/8 1/4]=1, 6 elem MATCH. V1M2 [1/4 1/8 1/8 1/4 1/4]=1, 5 elem MATCH. V2M1 [1/8 1/16 1/16 1/8 1/8 1/4 1/4]=1, 7 elem MATCH. V2M2 [1/16 1/16 1/8 1/8 1/8 1/4 1/4]=1, 7 elem MATCH. V3M1 [1/4 1/8 1/8 1/4 1/4]=1, 5 elem MATCH. V3M2 [1/2 1/4 1/4]=1, 3 elem MATCH. 5. Pitch Plan: Piano A0-C8, Flute C4-C7, Cello C2-A5. All within bounds. Final on C major, triumphant.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [C3 E3 G3 C4 E4 G4] [F3 A3 C4 G3 C4] ] [ [C5 D5 E5 G5 C6 B5 G5] [E5 F5 G5 A5 B5 C6 G5] ] [ [C2 G2 E2 F2 D2] [G2 B2 C3] ]",
+  "durations": "[ [1/8 1/8 1/4 1/8 1/8 1/4] [1/4 1/8 1/8 1/4 1/4] ] [ [1/8 1/16 1/16 1/8 1/8 1/4 1/4] [1/16 1/16 1/8 1/8 1/8 1/4 1/4] ] [ [1/4 1/8 1/8 1/4 1/4] [1/2 1/4 1/4] ]",
+  "velocities": "[ [82 85 88 90 92 95] [98 95 92 105 110] ] [ [88 90 92 100 105 100 95] [95 98 102 108 112 118 110] ] [ [80 82 85 88 90] [100 105 112] ]",
+  "ties": "[ [0 0 0 0 0 0] [0 0 0 0 0] ] [ [0 0 0 0 0 0 0] [0 0 0 0 0 0 0] ] [ [0 0 0 0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [staccato] ] [ [] ] [ [accent] ] [ [] ] [ [] ] [ [accent] ] ] [ [ [accent] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] ] ] [ [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [] ] [ [] ] ] [ [ [staccato] ] [ [staccato] ] [ [] ] [ [] ] [ [accent] ] [ [accent] ] [ [tenuto] ] ] ] [ [ [ [accent] ] [ [staccato] ] [ [staccato] ] [ [] ] [ [tenuto] ] ] [ [ [accent] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+
+// --- JSON Generato il: 2026-06-17 10:26:49 | Emozione: Sad ---
+{
+  "composer_diary": "1. Configuration: N=3 voices (Piano, Flute, Cello). Emotion: Sad but with a hopeful Disney-style turn. BPM locked at 76. Key: A Minor moving toward C Major hope. 2. Harmonic Plan: M1 = i - iv - V7/III - VI (Amin-Dmin-B7-Fmaj) sorrowful, M2 = G7-Cmaj a hopeful brightening cadence with chromatic passing. Motif: descending sighing flute line that resolves upward. 3. Roles: V1 Piano sustained sorrowful chords with syncopation, V2 Flute weeping legato line, V3 Cello deep expressive bowed bassline. 4. Math Check: V1M1 [1/4 1/8 1/8 1/4 1/4]=1, 5 elem MATCH. V1M2 [1/2 1/4 1/8 1/8]=1, 4 elem MATCH. V2M1 [1/4 1/4 1/8 1/8 1/4]=1, 5 elem MATCH. V2M2 [1/8 1/8 1/4 1/2]=1, 4 elem MATCH. V3M1 [1/2 1/2]=1, 2 elem MATCH. V3M2 [1/4 1/4 1/2]=1, 3 elem MATCH. 5. Pitch Plan: Piano A0-C8, Flute C4-C7, Cello C2-A5. All within bounds. Final on C major, hopeful resolution.",
+  "measures": "[ [[4 4] [76]] [[4 4] [76]] ]",
+  "pitches": "[ [A3 C4 E4 D4 F4] [B3 G3 D4 G4] ] [ [A5 G5 F5 E5 D5] [E5 F5 E5 C5] ] [ [A2 D2] [G2 G3 C3] ]",
+  "durations": "[ [1/4 1/8 1/8 1/4 1/4] [1/2 1/4 1/8 1/8] ] [ [1/4 1/4 1/8 1/8 1/4] [1/8 1/8 1/4 1/2] ] [ [1/2 1/2] [1/4 1/4 1/2] ]",
+  "velocities": "[ [55 52 50 53 50] [60 62 65 70] ] [ [60 58 55 52 50] [62 65 68 72] ] [ [50 48] [58 62 70] ]",
+  "ties": "[ [0 0 0 0 0] [0 0 0 0] ] [ [0 0 0 0 0] [0 0 0 0] ] [ [0 0] [0 0 0] ]",
+  "articulations": "[ [ [ [tenuto] ] [ [] ] [ [] ] [ [tenuto] ] [ [] ] ] [ [ [tenuto] ] [ [] ] [ [] ] [ [] ] ] ] [ [ [ [legato] ] [ [] ] [ [] ] [ [] ] [ [tenuto] ] ] [ [ [] ] [ [] ] [ [legato] ] [ [tenuto] ] ] ] [ [ [ [tenuto] ] [ [tenuto] ] ] [ [ [tenuto] ] [ [] ] [ [tenuto] ] ] ] ]"
+}
+

@@ -1,0 +1,105 @@
+2026-06-15 23:53:19,938 [INFO] 📂 Setup cartella esperimento completato: experiments\Claude_claude-opus-4-8_20260615_235319
+2026-06-15 23:53:19,938 [INFO] [Claude Backend] Inizializzazione... Modello selezionato: claude-opus-4-8
+2026-06-15 23:53:20,220 [INFO] Client Claude configurato.
+2026-06-15 23:53:20,221 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-15 23:53:20,221 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-15 23:53:29,841 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:30,038 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,051 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,054 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,082 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,098 [INFO] [Ricevuto da Max] Creatività impostata a: 0.23 -> Temp LLM Limitata: 0.123
+2026-06-15 23:53:30,214 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,226 [INFO] [Ricevuto da Max] Creatività impostata a: 0.24 -> Temp LLM Limitata: 0.124
+2026-06-15 23:53:30,230 [INFO] [Ricevuto da Max] Creatività impostata a: 0.27 -> Temp LLM Limitata: 0.127
+2026-06-15 23:53:30,246 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:30,260 [INFO] [Ricevuto da Max] Creatività impostata a: 0.29 -> Temp LLM Limitata: 0.129
+2026-06-15 23:53:30,264 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-15 23:53:30,293 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-15 23:53:30,308 [INFO] [Ricevuto da Max] Creatività impostata a: 0.32 -> Temp LLM Limitata: 0.132
+2026-06-15 23:53:30,825 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-15 23:53:30,840 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-15 23:53:30,900 [INFO] [Ricevuto da Max] Creatività impostata a: 0.29 -> Temp LLM Limitata: 0.129
+2026-06-15 23:53:30,904 [INFO] [Ricevuto da Max] Creatività impostata a: 0.29 -> Temp LLM Limitata: 0.129
+2026-06-15 23:53:30,917 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:31,029 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:31,044 [INFO] [Ricevuto da Max] Creatività impostata a: 0.27 -> Temp LLM Limitata: 0.127
+2026-06-15 23:53:31,288 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:31,316 [INFO] [Ricevuto da Max] Creatività impostata a: 0.28 -> Temp LLM Limitata: 0.128
+2026-06-15 23:53:31,320 [INFO] [Ricevuto da Max] Creatività impostata a: 0.29 -> Temp LLM Limitata: 0.129
+2026-06-15 23:53:31,348 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-15 23:53:31,476 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-15 23:53:31,942 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-15 23:53:43,279 [INFO] [Ricevuto da Max] Istruzioni testuali aggiornate: a complex highly emotional John Williams style symphonic masterpiece for a critical space fleet battle between Anakin and Obi Wan Kenobi powerful and tragic with a majestic crescendo
+2026-06-15 23:53:52,729 [INFO] 📡 [OSC] Numero di voci impostato a: 1
+2026-06-15 23:54:04,822 [INFO] 📡 [OSC] Voice 2 impostata su: 49 Strings
+2026-06-15 23:54:05,483 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-15 23:54:11,697 [INFO] 📡 [OSC] Voice 2 impostata su: 57 Trumpet
+2026-06-15 23:54:12,790 [INFO] 📡 [OSC] Numero di voci impostato a: 3
+2026-06-15 23:54:42,263 [INFO] 📡 [OSC] Voice 1 impostata su: 65 Soprano sax
+2026-06-15 23:54:51,598 [INFO] 📡 [OSC] Voice 2 impostata su: 6 E. Piano 2
+2026-06-15 23:55:34,379 [INFO] 📡 [OSC] Voice 3 impostata su: 49 Strings
+2026-06-15 23:55:38,733 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-15 23:55:38,784 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-15 23:55:38,784 [INFO] Inizializzazione sessione di chat per Claude con temperatura: 0.12992126047611238
+2026-06-15 23:55:38,784 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-15 23:55:38,785 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 3 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:55:38,785 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:55:38,785 [INFO]    - Voice 1 (65 Soprano sax): Estensione [Ab3-E6], Chiave G
+2026-06-15 23:55:38,785 [INFO]    - Voice 2 (6 E. Piano 2): Estensione [E1-C7], Chiave G
+2026-06-15 23:55:38,785 [INFO]    - Voice 3 (49 Strings): Estensione [C2-C7], Chiave G
+2026-06-15 23:55:38,785 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:55:53,945 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:55:53,968 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=15.183s | Formato=JSON
+2026-06-15 23:55:53,968 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=3 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=15.183s | Latenza_Per_Battuta=7.591s | Cicli_Refine=0
+2026-06-15 23:55:53,991 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-15 23:55:53,991 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_235319_diaries.txt
+2026-06-15 23:55:53,992 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_235319_jsons.txt
+2026-06-15 23:55:53,993 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:55:54,044 [INFO]    INVIO DATI SETUP A MAX: 3 Voci, Chiavi = ['G', 'G', 'G'], Strumenti = ['Soprano sax', 'E. Piano 2', 'Strings'], MIDI = [65, 6, 49]
+2026-06-15 23:55:54,151 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 3 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:55:54,151 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:55:54,151 [INFO]    - Voice 1 (65 Soprano sax): Estensione [Ab3-E6], Chiave G
+2026-06-15 23:55:54,151 [INFO]    - Voice 2 (6 E. Piano 2): Estensione [E1-C7], Chiave G
+2026-06-15 23:55:54,151 [INFO]    - Voice 3 (49 Strings): Estensione [C2-C7], Chiave G
+2026-06-15 23:55:54,151 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:56:07,651 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:56:07,652 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=13.501s | Formato=JSON
+2026-06-15 23:56:07,652 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=3 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=13.501s | Latenza_Per_Battuta=6.750s | Cicli_Refine=0
+2026-06-15 23:56:07,679 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_235319_diaries.txt
+2026-06-15 23:56:07,680 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_235319_jsons.txt
+2026-06-15 23:56:07,680 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:56:07,732 [INFO]    INVIO DATI SETUP A MAX: 3 Voci, Chiavi = ['G', 'G', 'G'], Strumenti = ['Soprano sax', 'E. Piano 2', 'Strings'], MIDI = [65, 6, 49]
+2026-06-15 23:56:07,841 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 3 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:56:07,841 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:56:07,842 [INFO]    - Voice 1 (65 Soprano sax): Estensione [Ab3-E6], Chiave G
+2026-06-15 23:56:07,842 [INFO]    - Voice 2 (6 E. Piano 2): Estensione [E1-C7], Chiave G
+2026-06-15 23:56:07,842 [INFO]    - Voice 3 (49 Strings): Estensione [C2-C7], Chiave G
+2026-06-15 23:56:07,842 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:56:22,082 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:56:22,083 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=14.241s | Formato=JSON
+2026-06-15 23:56:22,083 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=3 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=14.241s | Latenza_Per_Battuta=7.120s | Cicli_Refine=0
+2026-06-15 23:56:22,105 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_235319_diaries.txt
+2026-06-15 23:56:22,105 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_235319_jsons.txt
+2026-06-15 23:56:22,106 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:56:22,157 [INFO]    INVIO DATI SETUP A MAX: 3 Voci, Chiavi = ['G', 'G', 'G'], Strumenti = ['Soprano sax', 'E. Piano 2', 'Strings'], MIDI = [65, 6, 49]
+2026-06-15 23:56:22,267 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 3 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-15 23:56:22,267 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-15 23:56:22,267 [INFO]    - Voice 1 (65 Soprano sax): Estensione [Ab3-E6], Chiave G
+2026-06-15 23:56:22,267 [INFO]    - Voice 2 (6 E. Piano 2): Estensione [E1-C7], Chiave G
+2026-06-15 23:56:22,267 [INFO]    - Voice 3 (49 Strings): Estensione [C2-C7], Chiave G
+2026-06-15 23:56:22,267 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-15 23:56:34,363 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-15 23:56:34,364 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=12.096s | Formato=JSON
+2026-06-15 23:56:34,364 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-opus-4-8' | Temperatura=0.12992126047611238 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=3 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=12.096s | Latenza_Per_Battuta=6.048s | Cicli_Refine=0
+2026-06-15 23:56:34,392 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-opus-4-8_20260615_235319_diaries.txt
+2026-06-15 23:56:34,393 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-opus-4-8_20260615_235319_jsons.txt
+2026-06-15 23:56:34,393 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-15 23:56:34,444 [INFO]    INVIO DATI SETUP A MAX: 3 Voci, Chiavi = ['G', 'G', 'G'], Strumenti = ['Soprano sax', 'E. Piano 2', 'Strings'], MIDI = [65, 6, 49]
+2026-06-15 23:56:34,555 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-15 23:56:36,557 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Claude_claude-opus-4-8_20260615_235319\Claude_claude-opus-4-8_20260615_235319_score.xml

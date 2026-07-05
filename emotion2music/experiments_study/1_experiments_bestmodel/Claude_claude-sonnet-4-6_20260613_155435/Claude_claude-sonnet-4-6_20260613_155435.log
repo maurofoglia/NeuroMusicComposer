@@ -1,0 +1,128 @@
+2026-06-13 15:54:35,836 [INFO] 📂 Setup cartella esperimento completato: experiments\Claude_claude-sonnet-4-6_20260613_155435
+2026-06-13 15:54:35,836 [INFO] [Claude Backend] Inizializzazione... Modello selezionato: claude-sonnet-4-6
+2026-06-13 15:54:36,177 [INFO] Client Claude configurato.
+2026-06-13 15:54:36,177 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-13 15:54:36,178 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-13 16:06:34,599 [INFO] [Ricevuto da Max] Istruzioni testuali aggiornate: epic cinematic orchestral track in the style of Hans Zimmer
+2026-06-13 16:06:41,739 [INFO] 📡 [OSC] Numero di voci impostato a: 4
+2026-06-13 16:06:41,740 [INFO] 📡 [OSC] Voice 1 impostata su: 74 Flute
+2026-06-13 16:06:41,748 [INFO] 📡 [OSC] Voice 2 impostata su: 69 Oboe
+2026-06-13 16:06:41,749 [INFO] 📡 [OSC] Voice 3 impostata su: 72 Clarinet
+2026-06-13 16:06:41,750 [INFO] 📡 [OSC] Voice 4 impostata su: 71 Bassoon
+2026-06-13 16:06:44,635 [INFO] [Ricevuto da Max] Creatività impostata a: 0.26 -> Temp LLM Limitata: 0.126
+2026-06-13 16:06:44,939 [INFO] [Ricevuto da Max] Creatività impostata a: 0.29 -> Temp LLM Limitata: 0.129
+2026-06-13 16:06:44,943 [INFO] [Ricevuto da Max] Creatività impostata a: 0.30 -> Temp LLM Limitata: 0.130
+2026-06-13 16:06:44,955 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-13 16:06:44,959 [INFO] [Ricevuto da Max] Creatività impostata a: 0.31 -> Temp LLM Limitata: 0.131
+2026-06-13 16:06:44,971 [INFO] [Ricevuto da Max] Creatività impostata a: 0.34 -> Temp LLM Limitata: 0.134
+2026-06-13 16:06:44,975 [INFO] [Ricevuto da Max] Creatività impostata a: 0.35 -> Temp LLM Limitata: 0.135
+2026-06-13 16:06:44,987 [INFO] [Ricevuto da Max] Creatività impostata a: 0.35 -> Temp LLM Limitata: 0.135
+2026-06-13 16:06:44,990 [INFO] [Ricevuto da Max] Creatività impostata a: 0.38 -> Temp LLM Limitata: 0.138
+2026-06-13 16:06:45,003 [INFO] [Ricevuto da Max] Creatività impostata a: 0.39 -> Temp LLM Limitata: 0.139
+2026-06-13 16:06:45,007 [INFO] [Ricevuto da Max] Creatività impostata a: 0.40 -> Temp LLM Limitata: 0.140
+2026-06-13 16:06:45,018 [INFO] [Ricevuto da Max] Creatività impostata a: 0.42 -> Temp LLM Limitata: 0.142
+2026-06-13 16:06:45,023 [INFO] [Ricevuto da Max] Creatività impostata a: 0.44 -> Temp LLM Limitata: 0.144
+2026-06-13 16:06:45,035 [INFO] [Ricevuto da Max] Creatività impostata a: 0.46 -> Temp LLM Limitata: 0.146
+2026-06-13 16:06:45,039 [INFO] [Ricevuto da Max] Creatività impostata a: 0.47 -> Temp LLM Limitata: 0.147
+2026-06-13 16:06:45,051 [INFO] [Ricevuto da Max] Creatività impostata a: 0.50 -> Temp LLM Limitata: 0.150
+2026-06-13 16:06:45,055 [INFO] [Ricevuto da Max] Creatività impostata a: 0.53 -> Temp LLM Limitata: 0.153
+2026-06-13 16:06:45,067 [INFO] [Ricevuto da Max] Creatività impostata a: 0.56 -> Temp LLM Limitata: 0.156
+2026-06-13 16:06:45,071 [INFO] [Ricevuto da Max] Creatività impostata a: 0.58 -> Temp LLM Limitata: 0.158
+2026-06-13 16:06:45,083 [INFO] [Ricevuto da Max] Creatività impostata a: 0.59 -> Temp LLM Limitata: 0.159
+2026-06-13 16:06:45,087 [INFO] [Ricevuto da Max] Creatività impostata a: 0.61 -> Temp LLM Limitata: 0.161
+2026-06-13 16:06:45,099 [INFO] [Ricevuto da Max] Creatività impostata a: 0.62 -> Temp LLM Limitata: 0.162
+2026-06-13 16:06:45,103 [INFO] [Ricevuto da Max] Creatività impostata a: 0.63 -> Temp LLM Limitata: 0.163
+2026-06-13 16:06:45,115 [INFO] [Ricevuto da Max] Creatività impostata a: 0.64 -> Temp LLM Limitata: 0.164
+2026-06-13 16:06:45,119 [INFO] [Ricevuto da Max] Creatività impostata a: 0.65 -> Temp LLM Limitata: 0.165
+2026-06-13 16:06:45,131 [INFO] [Ricevuto da Max] Creatività impostata a: 0.66 -> Temp LLM Limitata: 0.166
+2026-06-13 16:06:45,135 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-13 16:06:45,149 [INFO] [Ricevuto da Max] Creatività impostata a: 0.68 -> Temp LLM Limitata: 0.168
+2026-06-13 16:06:45,195 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-13 16:06:45,995 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-13 16:06:46,012 [INFO] [Ricevuto da Max] Creatività impostata a: 0.69 -> Temp LLM Limitata: 0.169
+2026-06-13 16:06:46,111 [INFO] [Ricevuto da Max] Creatività impostata a: 0.68 -> Temp LLM Limitata: 0.168
+2026-06-13 16:06:46,124 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-13 16:06:46,140 [INFO] [Ricevuto da Max] Creatività impostata a: 0.67 -> Temp LLM Limitata: 0.167
+2026-06-13 16:06:46,207 [INFO] [Ricevuto da Max] Creatività impostata a: 0.66 -> Temp LLM Limitata: 0.166
+2026-06-13 16:06:46,220 [INFO] [Ricevuto da Max] Creatività impostata a: 0.65 -> Temp LLM Limitata: 0.165
+2026-06-13 16:06:46,303 [INFO] [Ricevuto da Max] Creatività impostata a: 0.64 -> Temp LLM Limitata: 0.164
+2026-06-13 16:06:46,315 [INFO] [Ricevuto da Max] Creatività impostata a: 0.63 -> Temp LLM Limitata: 0.163
+2026-06-13 16:06:46,320 [INFO] [Ricevuto da Max] Creatività impostata a: 0.62 -> Temp LLM Limitata: 0.162
+2026-06-13 16:06:46,348 [INFO] [Ricevuto da Max] Creatività impostata a: 0.61 -> Temp LLM Limitata: 0.161
+2026-06-13 16:06:48,113 [INFO] [Ricevuto da Max] Creatività impostata a: 0.87 -> Temp LLM Limitata: 0.187
+2026-06-13 16:06:48,479 [INFO] [Ricevuto da Max] Creatività impostata a: 0.87 -> Temp LLM Limitata: 0.187
+2026-06-13 16:06:48,511 [INFO] [Ricevuto da Max] Creatività impostata a: 0.86 -> Temp LLM Limitata: 0.186
+2026-06-13 16:06:48,530 [INFO] [Ricevuto da Max] Creatività impostata a: 0.84 -> Temp LLM Limitata: 0.184
+2026-06-13 16:06:48,580 [INFO] [Ricevuto da Max] Creatività impostata a: 0.84 -> Temp LLM Limitata: 0.184
+2026-06-13 16:06:48,608 [INFO] [Ricevuto da Max] Creatività impostata a: 0.83 -> Temp LLM Limitata: 0.183
+2026-06-13 16:06:51,695 [INFO] [Ricevuto da Max] Creatività impostata a: 0.18 -> Temp LLM Limitata: 0.118
+2026-06-13 16:11:06,832 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-13 16:11:06,884 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-13 16:11:06,884 [INFO] Inizializzazione sessione di chat per Claude con temperatura: 0.1181102365255356
+2026-06-13 16:11:06,884 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-13 16:11:06,885 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 16:11:06,885 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 16:11:06,885 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-13 16:11:06,885 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-13 16:11:06,885 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-13 16:11:06,886 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-13 16:11:06,886 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 16:11:29,048 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 16:11:29,098 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=22.212s | Formato=JSON
+2026-06-13 16:11:29,099 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1181102365255356 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=22.213s | Latenza_Per_Battuta=11.107s | Cicli_Refine=0
+2026-06-13 16:11:29,149 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-13 16:11:29,149 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_155435_diaries.txt
+2026-06-13 16:11:29,151 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_155435_jsons.txt
+2026-06-13 16:11:29,153 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 16:11:29,204 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-13 16:11:29,313 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 16:11:29,313 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 16:11:29,313 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-13 16:11:29,314 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-13 16:11:29,314 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-13 16:11:29,314 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-13 16:11:29,314 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 16:12:01,383 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 16:12:01,385 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=32.071s | Formato=JSON
+2026-06-13 16:12:01,385 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1181102365255356 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=32.071s | Latenza_Per_Battuta=16.036s | Cicli_Refine=0
+2026-06-13 16:12:01,430 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_155435_diaries.txt
+2026-06-13 16:12:01,431 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_155435_jsons.txt
+2026-06-13 16:12:01,432 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 16:12:01,484 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-13 16:12:01,594 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 16:12:01,594 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 16:12:01,594 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-13 16:12:01,594 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-13 16:12:01,594 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-13 16:12:01,595 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-13 16:12:01,595 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 16:12:26,060 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 16:12:26,061 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=24.466s | Formato=JSON
+2026-06-13 16:12:26,061 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1181102365255356 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=24.467s | Latenza_Per_Battuta=12.233s | Cicli_Refine=0
+2026-06-13 16:12:26,097 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_155435_diaries.txt
+2026-06-13 16:12:26,098 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_155435_jsons.txt
+2026-06-13 16:12:26,099 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 16:12:26,150 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-13 16:12:26,266 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 4 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 16:12:26,266 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 16:12:26,266 [INFO]    - Voice 1 (74 Flute): Estensione [C4-C7], Chiave G
+2026-06-13 16:12:26,266 [INFO]    - Voice 2 (69 Oboe): Estensione [Bb3-G5], Chiave G
+2026-06-13 16:12:26,267 [INFO]    - Voice 3 (72 Clarinet): Estensione [D3-C6], Chiave G
+2026-06-13 16:12:26,267 [INFO]    - Voice 4 (71 Bassoon): Estensione [Bb1-Eb4], Chiave F
+2026-06-13 16:12:26,267 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 16:12:47,566 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-06-13 16:12:47,567 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=21.300s | Formato=JSON
+2026-06-13 16:12:47,568 [INFO] [TESI-METRIC] Task='Completed' | Backend='Claude' | Modello='claude-sonnet-4-6' | Temperatura=0.1181102365255356 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=4 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=21.301s | Latenza_Per_Battuta=10.650s | Cicli_Refine=0
+2026-06-13 16:12:47,604 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: Claude_claude-sonnet-4-6_20260613_155435_diaries.txt
+2026-06-13 16:12:47,604 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: Claude_claude-sonnet-4-6_20260613_155435_jsons.txt
+2026-06-13 16:12:49,135 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 16:12:49,224 [INFO]    INVIO DATI SETUP A MAX: 4 Voci, Chiavi = ['G', 'G', 'G', 'F'], Strumenti = ['Flute', 'Oboe', 'Clarinet', 'Bassoon'], MIDI = [74, 69, 72, 71]
+2026-06-13 16:12:49,442 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-13 16:12:51,443 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\Claude_claude-sonnet-4-6_20260613_155435\Claude_claude-sonnet-4-6_20260613_155435_score.xml
+2026-06-13 17:00:41,279 [INFO] 
+Chiusura del server.

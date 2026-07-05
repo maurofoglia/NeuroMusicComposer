@@ -1,0 +1,74 @@
+2026-06-13 12:07:27,933 [INFO] 📂 Setup cartella esperimento completato: experiments\GitHub_gpt-4o_20260613_120727
+2026-06-13 12:07:27,933 [INFO] [GitHub Backend] Inizializzazione... Modello selezionato: gpt-4o
+2026-06-13 12:07:28,279 [INFO] Client GitHub Models configurato.
+2026-06-13 12:07:28,280 [INFO] === AVVIO MUSIC GENERATOR (IN ASCOLTO) ===
+2026-06-13 12:07:28,280 [INFO] In attesa del comando da Max MSP sulla porta 8001...
+2026-06-13 12:07:28,681 [INFO] 📡 [OSC] Voice 1 impostata su: 1 Piano 1
+2026-06-13 12:07:33,753 [INFO] 📡 [OSC] Voice 2 impostata su: 26 Steel-Str. Gt
+2026-06-13 12:07:43,106 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-13 12:07:44,508 [INFO] 📡 [OSC] Numero di voci impostato a: 1
+2026-06-13 12:07:46,074 [INFO] 📡 [OSC] Numero di voci impostato a: 2
+2026-06-13 12:07:50,254 [INFO] 📡 [OSC] Voice 1 impostata su: 1 Piano 1
+2026-06-13 12:07:55,169 [INFO] 📡 [OSC] Voice 2 impostata su: 26 Steel-Str. Gt
+2026-06-13 12:08:02,958 [INFO] 
+[Ricevuto da Max] Avvio della simulazione automatica!
+2026-06-13 12:08:03,009 [INFO] 🔒 [BPM LOCK] Reset del BPM per la nuova sequenza.
+2026-06-13 12:08:03,010 [INFO] Inizializzazione sessione di chat per GitHub con temperatura: 0.1
+2026-06-13 12:08:03,010 [INFO] Emozioni selezionate per la simulazione: ['Relaxed', 'Excited', 'Excited', 'Sad']
+2026-06-13 12:08:03,010 [INFO] Richiesta -> Emozione: Relaxed | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:08:03,010 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:08:03,011 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:08:03,011 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:08:03,011 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:08:08,990 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:08:09,011 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=6.000s | Formato=JSON
+2026-06-13 12:08:09,011 [INFO] [TESI-METRIC] Task='Completed' | Backend='GitHub' | Modello='gpt-4o' | Temperatura=0.1 | Emozione='Relaxed' | Stile='auto' | BPM=Auto | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=6.000s | Latenza_Per_Battuta=3.000s | Cicli_Refine=0
+2026-06-13 12:08:09,049 [INFO] 🔒 [BPM LOCK] BPM iniziale bloccato a: 72 BPM.
+2026-06-13 12:08:09,050 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: GitHub_gpt-4o_20260613_120727_diaries.txt
+2026-06-13 12:08:09,051 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: GitHub_gpt-4o_20260613_120727_jsons.txt
+2026-06-13 12:08:09,052 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:08:09,103 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:08:09,211 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:08:09,211 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:08:09,211 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:08:09,211 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:08:09,211 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:08:14,009 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:08:14,011 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.799s | Formato=JSON
+2026-06-13 12:08:14,011 [INFO] [TESI-METRIC] Task='Completed' | Backend='GitHub' | Modello='gpt-4o' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=4.800s | Latenza_Per_Battuta=2.400s | Cicli_Refine=0
+2026-06-13 12:08:14,057 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: GitHub_gpt-4o_20260613_120727_diaries.txt
+2026-06-13 12:08:14,058 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: GitHub_gpt-4o_20260613_120727_jsons.txt
+2026-06-13 12:08:15,677 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:08:15,728 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:08:15,836 [INFO] Richiesta -> Emozione: Excited | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:08:15,836 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:08:15,836 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:08:15,837 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:08:15,837 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:08:19,844 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:08:19,846 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.008s | Formato=JSON
+2026-06-13 12:08:19,846 [INFO] [TESI-METRIC] Task='Completed' | Backend='GitHub' | Modello='gpt-4o' | Temperatura=0.1 | Emozione='Excited' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=4.008s | Latenza_Per_Battuta=2.004s | Cicli_Refine=0
+2026-06-13 12:08:19,887 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: GitHub_gpt-4o_20260613_120727_diaries.txt
+2026-06-13 12:08:19,888 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: GitHub_gpt-4o_20260613_120727_jsons.txt
+2026-06-13 12:08:22,344 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:08:22,396 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:08:22,505 [INFO] Richiesta -> Emozione: Sad | Voci Attive: 2 | Max Iterazioni Refine: 0 | RE2: False | Few-Shot: True
+2026-06-13 12:08:22,505 [INFO] 
+🔍 [DEBUG STRUMENTI] Valori estratti dal Database:
+2026-06-13 12:08:22,505 [INFO]    - Voice 1 (1 Piano 1): Estensione [A0-C8], Chiave G
+2026-06-13 12:08:22,505 [INFO]    - Voice 2 (26 Steel-Str. Gt): Estensione [E2-C6], Chiave G
+2026-06-13 12:08:22,505 [INFO] --- Generazione Base (y_0) in corso... (Few-Shot) ---
+2026-06-13 12:08:26,808 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 12:08:26,809 [INFO] [TESI-METRIC] Type='Generazione Base' | API_Latency=4.304s | Formato=JSON
+2026-06-13 12:08:26,809 [INFO] [TESI-METRIC] Task='Completed' | Backend='GitHub' | Modello='gpt-4o' | Temperatura=0.1 | Emozione='Sad' | Stile='auto' | BPM=72 | Voci=2 | Battute=2 | Prompt_Type='Few-Shot' | Usa_RE2=False | Latenza_Totale=4.304s | Latenza_Per_Battuta=2.152s | Cicli_Refine=0
+2026-06-13 12:08:26,841 [INFO] 📖 [TESI-DIARY] Salvataggio logica compositiva in: GitHub_gpt-4o_20260613_120727_diaries.txt
+2026-06-13 12:08:26,842 [INFO] 📝 [TESI-JSON] Output JSON salvato e indentato in: GitHub_gpt-4o_20260613_120727_jsons.txt
+2026-06-13 12:08:29,010 [INFO] 🎹 JSON COMPLETO GENERATO CON SUCCESSO
+2026-06-13 12:08:29,062 [INFO]    INVIO DATI SETUP A MAX: 2 Voci, Chiavi = ['G', 'G'], Strumenti = ['Piano 1', 'Steel-Str. Gt'], MIDI = [1, 26]
+2026-06-13 12:08:29,170 [INFO] === SEQUENZA COMPLETATA ===
+2026-06-13 12:08:31,172 [INFO] 📥 [EXPORT] Comando inviato a Max per esportare lo spartito in: C:\Users\mauro\PycharmProjects\Emotion2Music\experiments\GitHub_gpt-4o_20260613_120727\GitHub_gpt-4o_20260613_120727_score.xml
+2026-06-13 12:09:11,676 [INFO] 
+Chiusura del server.
