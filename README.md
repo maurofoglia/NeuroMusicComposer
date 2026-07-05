@@ -11,15 +11,12 @@ An end-to-end cognitive-generative framework that bridges EEG emotion recognitio
 ---
 
 ## 🎥 System Demo
-See the framework in action, from real-time EEG decoding to the synthesis of generated scores via Max/MSP.
+See the framework in action. Click to watch a demonstration of the NeuroMusicComposer translating emotions into live music generation:
+https://github.com/user-attachments/assets/4ef1d511-ecec-4183-bf89-6664906a84a3
 
-<video width="100%" controls>
-  <source src="docs/videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
----
 
+[![NeuroMusicComposer Demo](docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=IL_TUO_LINK_QUI)
 ## 🗺️ System Architecture
 
 Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop.
