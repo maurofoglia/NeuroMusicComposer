@@ -10,9 +10,19 @@ An end-to-end cognitive-generative framework that bridges EEG emotion recognitio
 
 ---
 
+## 🎥 System Demo
+See the framework in action, from real-time EEG decoding to the synthesis of generated scores via Max/MSP.
+
+<video width="100%" controls>
+  <source src="docs/videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🗺️ System Architecture
 
-Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop. 
+Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop.
 
 ![System Architecture Overview](docs/images/architecture_overview.jpg)
 
@@ -25,7 +35,7 @@ The framework operates across three highly decoupled layers:
 
 ## 🧠 EEG Pipeline & Emotion Recognition
 
-The neural decoding framework processes downsampled or upsampled EEG segments to compute classification thresholds across discrete baseline affective targets.
+The neural decoding framework processes downsampled or upsampled EEG segments to compute classification thresholds across discrete baseline affective targets (Relaxed, Angry, Sad, Happy).
 
 ![Emotion Recognition Framework](docs/images/emotion_recognition_framework.jpg)
 
@@ -40,6 +50,23 @@ The cognitive layer acts as an algorithmic composer. It parses semantic features
 ![LLM Parameter Mapping Pipeline](docs/images/llm_generation.jpg)
 
 Through strict prompting strategies (Chain-of-Thought, RE2, Few-Shot), the LLM generates a highly structured **JSON payload**. This payload contains explicit musical parameters—such as Pitches, Durations, Velocities, Measures, Articulations, and Clefs—mapped directly to individual instrumental voices (e.g., Flute, Cello, Violin, Viola).
+
+---
+
+## 🧪 Experimental Benchmarks
+
+The project includes an extensive benchmark suite organized within `emotion2music/experiments_study/`. Each experiment logs multi-model behaviors across varied prompt paradigms, evaluating how different LLM architectures (Claude, Gemini, GPT-4o) interpret the "Context Bag" (personalization and emotional tags).
+
+![Experimental Workflow Overview](docs/images/overview_experiments.jpg)
+
+| Study ID | Focus Area | Models Analyzed |
+| :--- | :--- | :--- |
+| `1_experiments_bestmodel` | Baseline Performance | Claude, GPT-4o, OpenRouter |
+| `2_experiments_prompt_type` | Prompt Strategy | Claude Opus |
+| `3_experiments_prompt_specificity`| Semantic Granularity | Claude Opus |
+| `4_experiments_cot_diary` | Reasoning Behavior | Claude Opus/Sonnet/Haiku |
+| `5_experiments_engineering` | RE2 & Few-Shot Tuning | Claude Opus/Sonnet |
+| `7_experiments_gemini_live` | Foundation Model Tests | Gemini 2.5/3.1/3.5 |
 
 ---
 
@@ -68,7 +95,7 @@ The **Composer Panel** offers parametric control over creativity, complexity, an
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-Since this project depends on the `Zuna` foundation model hosted as an external tracking module, clone with the `--recursive` flag to pull all submodules:
+Clone with the `--recursive` flag to pull all submodules:
 ```bash
 git clone --recursive [https://github.com/maurofoglia/NeuroMusicComposer.git](https://github.com/maurofoglia/NeuroMusicComposer.git)
 cd NeuroMusicComposer
