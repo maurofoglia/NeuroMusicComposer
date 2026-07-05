@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pathlib2" />
+          <option value="argparse" />
+          <option value="librosa" />
+          <option value="fastnode2vec" />
+          <option value="wandb" />
+          <option value="torchopenl3" />
+          <option value="spotipy" />
+          <option value="h5py" />
+          <option value="implicit" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
