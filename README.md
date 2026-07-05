@@ -24,7 +24,7 @@ See the framework in action, from real-time EEG decoding to the synthesis of gen
 
 Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop.
 
-![System Architecture Overview](docs/images/architecture_overview.jpg)
+![System Architecture Overview](docs/images/architecture_overview.png)
 
 The framework operates across three highly decoupled layers:
 1. **Neural Decoding Layer (`braindecode` & `zuna`):** Ingests raw EEG data, executes spatial-temporal filtering, and extracts emotional metrics using deep learning backbones.
