@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e2251c02-0d45-4670-8117-05d72464779d
+
 # NeuroMusicComposer 🧠🎶
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
@@ -12,12 +16,9 @@ An end-to-end cognitive-generative framework that bridges EEG emotion recognitio
 
 ## 🎥 System Demo
 See the framework in action. Click to watch a demonstration of the NeuroMusicComposer translating emotions into live music generation:
-https://github.com/user-attachments/assets/2c53d714-9409-4f12-baef-5a07725b573c
+https://github.com/user-attachments/assets/c171efa3-8db9-43de-ab94-9e092a7a945e
 
-
-[![NeuroMusicComposer Demo](docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=IL_TUO_LINK_QUI)
 ## 🗺️ System Architecture
-
 Our end-to-end ecosystem connects brain activity directly to algorithmic orchestration, building a real-time bio-feedback loop.
 
 ![System Architecture Overview](docs/images/architecture_overview.png)
